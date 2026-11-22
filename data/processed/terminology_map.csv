@@ -1,0 +1,1501 @@
+map_id,source_code,source_system,source_description,target_system,standard_code,standard_description,mapped,token_overlap,desc_len_words,frequency,true_mappable,is_synthetic
+1,LEGACY-PROC-6674,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.817,6,299,0,1
+2,LEGACY-DX-2348,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.571,2,458,0,1
+3,LEGACY-DX-5329,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.593,5,439,0,1
+4,LEGACY-DX-6399,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.725,3,124,0,1
+5,LEGACY-RX-2864,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.177,8,96,0,1
+6,LEGACY-RX-6034,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.563,5,414,0,1
+7,LEGACY-LAB-1515,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.878,3,4,0,1
+8,LEGACY-DX-3263,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.909,3,298,0,1
+9,LEGACY-PROC-8331,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.84,5,71,0,1
+10,LEGACY-DX-5522,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.965,2,383,0,1
+11,LEGACY-DX-1406,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.858,2,18,0,1
+12,LEGACY-DX-6137,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.841,6,286,0,1
+13,LEGACY-DX-5236,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.825,2,256,0,1
+14,LEGACY-DX-4989,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.776,1,345,0,1
+15,LEGACY-DX-9673,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.605,2,6,0,1
+16,LEGACY-RX-2866,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.756,2,340,0,1
+17,LEGACY-DX-1525,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.99,6,365,0,1
+18,LEGACY-PROC-5514,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.869,4,224,0,1
+19,LEGACY-PROC-6879,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.74,6,38,0,1
+20,LEGACY-RX-1285,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.815,5,450,0,1
+21,LEGACY-DX-1682,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.618,2,195,0,1
+22,LEGACY-RX-6209,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.891,2,212,0,1
+23,LEGACY-DX-4347,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.887,6,438,0,1
+24,LEGACY-LAB-4848,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.701,3,273,0,1
+25,LEGACY-DX-7400,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.697,4,252,0,1
+26,LEGACY-LAB-2795,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.777,4,340,0,1
+27,LEGACY-PROC-6680,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.659,4,455,0,1
+28,LEGACY-LAB-9966,LEGACY-LAB,Glomerular filtration local variant,LOINC,,Glomerular filtration rate,0,0.584,4,253,1,1
+29,LEGACY-LAB-5318,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.922,4,233,0,1
+30,LEGACY-RX-1921,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.743,5,393,0,1
+31,LEGACY-DX-6127,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.832,1,163,0,1
+32,LEGACY-PROC-9418,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.97,5,60,0,1
+33,LEGACY-PROC-3177,LEGACY-PROC,Chest x-ray local variant,CPT,,Chest x-ray two views,0,0.384,4,33,0,1
+34,LEGACY-RX-3897,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.609,5,164,0,1
+35,LEGACY-DX-2031,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.693,3,31,0,1
+36,LEGACY-PROC-2205,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.673,4,318,0,1
+37,LEGACY-DX-8186,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.886,3,213,0,1
+38,LEGACY-RX-8544,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.892,5,337,0,1
+39,LEGACY-PROC-8109,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.714,4,213,0,1
+40,LEGACY-DX-2413,LEGACY-DX,Low back local variant,ICD-10,,Low back pain,0,0.381,4,155,0,1
+41,LEGACY-RX-9591,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.705,5,269,0,1
+42,LEGACY-LAB-8203,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.606,4,174,0,1
+43,LEGACY-PROC-7708,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.811,5,56,0,1
+44,LEGACY-PROC-6554,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.799,2,87,0,1
+45,LEGACY-DX-1174,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.96,3,132,0,1
+46,LEGACY-DX-3303,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.994,2,151,0,1
+47,LEGACY-LAB-1682,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.631,3,109,0,1
+48,LEGACY-DX-6364,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.686,3,463,0,1
+49,LEGACY-DX-5705,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.679,5,261,0,1
+50,LEGACY-RX-2880,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.981,5,198,0,1
+51,LEGACY-PROC-2051,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.761,4,419,0,1
+52,LEGACY-PROC-4609,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.905,4,76,0,1
+53,LEGACY-RX-5545,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.663,5,186,0,1
+54,LEGACY-DX-3184,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.858,5,322,0,1
+55,LEGACY-DX-9252,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.603,4,35,0,1
+56,LEGACY-LAB-4437,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.792,3,203,0,1
+57,LEGACY-PROC-3369,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.981,2,295,0,1
+58,LEGACY-PROC-7084,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.956,5,115,0,1
+59,LEGACY-DX-6868,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.57,2,294,0,1
+60,LEGACY-DX-5744,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.675,3,77,0,1
+61,LEGACY-RX-3025,LEGACY-RX,Gabapentin 300 local variant,RxNorm,,Gabapentin 300 MG oral capsule,0,0.613,4,352,1,1
+62,LEGACY-RX-1969,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.584,5,344,0,1
+63,LEGACY-DX-6402,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.556,3,33,0,1
+64,LEGACY-DX-6423,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.987,2,490,0,1
+65,LEGACY-PROC-1588,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.877,6,460,0,1
+66,LEGACY-RX-3063,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.676,5,443,0,1
+67,LEGACY-DX-5540,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.77,3,176,0,1
+68,LEGACY-PROC-5426,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.614,4,397,0,1
+69,LEGACY-LAB-5758,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.694,3,285,0,1
+70,LEGACY-LAB-1367,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.674,3,456,0,1
+71,LEGACY-RX-2440,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.935,5,1,0,1
+72,LEGACY-RX-4137,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.686,5,78,0,1
+73,LEGACY-DX-4171,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.878,3,293,0,1
+74,LEGACY-PROC-1146,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.645,3,157,0,1
+75,LEGACY-DX-5228,LEGACY-DX,Heart failure local variant,SNOMED CT,,Heart failure,0,0.537,4,192,1,1
+76,LEGACY-DX-8058,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.792,3,422,0,1
+77,LEGACY-DX-7269,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.553,3,422,0,1
+78,LEGACY-LAB-4116,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.942,3,62,0,1
+79,LEGACY-LAB-1533,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.995,3,319,0,1
+80,LEGACY-LAB-1085,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.968,3,76,0,1
+81,LEGACY-DX-5507,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.63,2,109,0,1
+82,LEGACY-DX-9204,LEGACY-DX,Obstructive sleep local variant,ICD-10,,Obstructive sleep apnea,0,0.647,4,293,0,1
+83,LEGACY-LAB-7088,LEGACY-LAB,Calcium in local variant,LOINC,,Calcium in blood,0,0.456,4,166,0,1
+84,LEGACY-DX-9098,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.569,4,404,0,1
+85,LEGACY-RX-1151,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.74,5,455,0,1
+86,LEGACY-LAB-4387,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.555,3,425,0,1
+87,LEGACY-LAB-2136,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.587,4,440,0,1
+88,LEGACY-PROC-5867,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.618,5,292,0,1
+89,LEGACY-LAB-2857,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.568,3,39,0,1
+90,LEGACY-DX-7090,LEGACY-DX,Local code — no standard description on file,ICD-10,,Gastroesophageal reflux disease,0,0.099,8,399,0,1
+91,LEGACY-PROC-1437,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.715,6,143,0,1
+92,LEGACY-DX-6488,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.71,3,292,0,1
+93,LEGACY-DX-5138,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.748,4,27,0,1
+94,LEGACY-DX-8500,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.779,5,109,0,1
+95,LEGACY-DX-9228,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.69,2,19,0,1
+96,LEGACY-DX-4750,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.652,3,153,0,1
+97,LEGACY-DX-1333,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.658,3,271,0,1
+98,LEGACY-DX-5770,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Asthma,0,0.109,8,1,0,1
+99,LEGACY-DX-7146,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.921,3,475,0,1
+100,LEGACY-RX-7571,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.949,5,122,0,1
+101,LEGACY-DX-2257,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.659,2,229,0,1
+102,LEGACY-RX-6410,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.953,5,471,0,1
+103,LEGACY-RX-6475,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.951,5,455,0,1
+104,LEGACY-PROC-6379,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.75,5,190,0,1
+105,LEGACY-DX-8384,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.644,1,266,0,1
+106,LEGACY-DX-6999,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.901,5,163,0,1
+107,LEGACY-DX-5360,LEGACY-DX,Type 2 local variant,ICD-10,,Type 2 diabetes without complications,0,0.417,4,80,0,1
+108,LEGACY-DX-2206,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.606,3,247,0,1
+109,LEGACY-DX-2291,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.692,2,262,0,1
+110,LEGACY-LAB-9142,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.721,4,231,0,1
+111,LEGACY-RX-5132,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.621,5,430,0,1
+112,LEGACY-DX-6458,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.648,6,463,0,1
+113,LEGACY-PROC-7225,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.986,2,177,0,1
+114,LEGACY-RX-9376,LEGACY-RX,Local code — no standard description on file,RxNorm,,Lisinopril 10 MG oral tablet,0,0.125,8,28,0,1
+115,LEGACY-DX-1538,LEGACY-DX,Chronic obstructive local variant,SNOMED CT,,Chronic obstructive lung disease,0,0.372,4,427,0,1
+116,LEGACY-DX-1640,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.877,3,218,0,1
+117,LEGACY-DX-2657,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.761,2,72,0,1
+118,LEGACY-DX-8303,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.583,6,37,0,1
+119,LEGACY-PROC-4508,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.949,6,66,0,1
+120,LEGACY-DX-8136,LEGACY-DX,Local code — no standard description on file,ICD-10,,Essential hypertension,0,0.175,8,169,0,1
+121,LEGACY-LAB-4923,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.911,4,133,0,1
+122,LEGACY-PROC-7330,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.75,4,98,0,1
+123,LEGACY-DX-4512,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.622,2,394,0,1
+124,LEGACY-LAB-9802,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.358,4,349,0,1
+125,LEGACY-PROC-6714,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.721,5,117,0,1
+126,LEGACY-DX-8807,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.865,2,320,0,1
+127,LEGACY-LAB-8279,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.647,3,262,0,1
+128,LEGACY-RX-8376,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.566,5,40,0,1
+129,LEGACY-DX-3152,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.688,3,156,0,1
+130,LEGACY-PROC-3253,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.874,5,402,0,1
+131,LEGACY-DX-4000,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.981,5,67,0,1
+132,LEGACY-DX-9722,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.802,1,24,0,1
+133,LEGACY-RX-9664,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.65,5,446,0,1
+134,LEGACY-RX-6720,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.733,5,431,0,1
+135,LEGACY-DX-5989,LEGACY-DX,Obstructive sleep local variant,ICD-10,,Obstructive sleep apnea,0,0.429,4,84,1,1
+136,LEGACY-DX-7365,LEGACY-DX,Local code — no standard description on file,ICD-10,,Essential hypertension,0,0.09,8,125,0,1
+137,LEGACY-DX-3041,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.913,5,449,0,1
+138,LEGACY-DX-9181,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.893,3,219,0,1
+139,LEGACY-DX-2165,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.918,5,448,0,1
+140,LEGACY-RX-3058,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.721,2,26,0,1
+141,LEGACY-DX-2524,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.936,3,299,0,1
+142,LEGACY-PROC-6685,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.628,4,436,0,1
+143,LEGACY-DX-8700,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.939,3,306,0,1
+144,LEGACY-RX-9430,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.755,2,101,0,1
+145,LEGACY-PROC-6980,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.961,5,67,0,1
+146,LEGACY-LAB-2146,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.661,3,480,0,1
+147,LEGACY-DX-9671,LEGACY-DX,Local code — no standard description on file,ICD-10,,Low back pain,0,0.123,8,318,0,1
+148,LEGACY-DX-5046,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.695,3,29,0,1
+149,LEGACY-PROC-8634,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.614,4,61,0,1
+150,LEGACY-RX-7892,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.888,5,208,0,1
+151,LEGACY-DX-6592,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.829,6,130,0,1
+152,LEGACY-LAB-8803,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.831,4,427,0,1
+153,LEGACY-RX-9365,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.805,5,480,0,1
+154,LEGACY-DX-7743,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.744,2,442,0,1
+155,LEGACY-DX-7331,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.905,3,4,0,1
+156,LEGACY-DX-6260,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.878,3,454,0,1
+157,LEGACY-PROC-5538,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.554,6,136,0,1
+158,LEGACY-DX-6742,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Heart failure,0,0.011,8,42,0,1
+159,LEGACY-RX-6796,LEGACY-RX,Atorvastatin 20 local variant,RxNorm,,Atorvastatin 20 MG oral tablet,0,0.365,4,193,0,1
+160,LEGACY-LAB-3711,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.878,3,376,0,1
+161,LEGACY-DX-2399,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.626,4,274,0,1
+162,LEGACY-RX-6919,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.786,2,48,0,1
+163,LEGACY-PROC-9124,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.766,5,323,0,1
+164,LEGACY-RX-1725,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.752,5,305,0,1
+165,LEGACY-PROC-5520,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.968,5,284,0,1
+166,LEGACY-DX-4381,LEGACY-DX,Unspecified asthma local variant,ICD-10,,Unspecified asthma uncomplicated,0,0.454,4,323,1,1
+167,LEGACY-DX-8190,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.927,3,67,0,1
+168,LEGACY-DX-3400,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.935,2,49,0,1
+169,LEGACY-RX-8928,LEGACY-RX,Amoxicillin 500 local variant,RxNorm,,Amoxicillin 500 MG oral capsule,0,0.636,4,227,0,1
+170,LEGACY-PROC-1131,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.876,5,227,0,1
+171,LEGACY-DX-5629,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.912,3,110,0,1
+172,LEGACY-DX-3552,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.968,2,240,0,1
+173,LEGACY-PROC-1787,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.617,3,82,0,1
+174,LEGACY-PROC-2216,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.749,3,441,0,1
+175,LEGACY-DX-1502,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.619,4,342,0,1
+176,LEGACY-DX-3017,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.967,3,167,0,1
+177,LEGACY-LAB-9340,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.706,3,489,0,1
+178,LEGACY-DX-8852,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.558,3,187,0,1
+179,LEGACY-RX-6526,LEGACY-RX,Local code — no standard description on file,RxNorm,,Omeprazole 20 MG oral capsule,0,0.198,8,400,0,1
+180,LEGACY-PROC-9858,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient detailed,0,0.054,8,355,0,1
+181,LEGACY-DX-3196,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.597,2,422,0,1
+182,LEGACY-DX-4625,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Hypothyroidism,0,0.044,8,425,0,1
+183,LEGACY-DX-8833,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.827,6,339,0,1
+184,LEGACY-RX-6529,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.796,5,101,0,1
+185,LEGACY-PROC-7420,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.626,6,2,0,1
+186,LEGACY-DX-9351,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.696,1,275,0,1
+187,LEGACY-PROC-7907,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.94,3,206,0,1
+188,LEGACY-LAB-9246,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.639,3,209,0,1
+189,LEGACY-DX-5146,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.61,1,73,0,1
+190,LEGACY-LAB-1004,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.7,4,301,0,1
+191,LEGACY-RX-5071,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.17,8,490,0,1
+192,LEGACY-DX-9050,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Chronic obstructive lung disease,0,0.051,8,276,0,1
+193,LEGACY-PROC-3411,LEGACY-PROC,Office outpatient local variant,CPT,,Office outpatient visit established patient detailed,0,0.564,4,319,1,1
+194,LEGACY-RX-7377,LEGACY-RX,Metformin 500 local variant,RxNorm,,Metformin 500 MG oral tablet,0,0.483,4,308,0,1
+195,LEGACY-DX-4297,LEGACY-DX,Atherosclerotic heart local variant,ICD-10,,Atherosclerotic heart disease,0,0.648,4,14,1,1
+196,LEGACY-DX-3646,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.762,3,34,0,1
+197,LEGACY-DX-5290,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.713,5,56,0,1
+198,LEGACY-RX-5963,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.815,2,92,0,1
+199,LEGACY-DX-2490,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.977,4,356,0,1
+200,LEGACY-LAB-2245,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.598,3,86,0,1
+201,LEGACY-DX-9277,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.822,5,17,0,1
+202,LEGACY-PROC-7662,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.718,5,27,0,1
+203,LEGACY-DX-7609,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.663,3,253,0,1
+204,LEGACY-LAB-4855,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.995,3,3,0,1
+205,LEGACY-DX-9942,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.727,6,231,0,1
+206,LEGACY-LAB-9364,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.876,3,37,0,1
+207,LEGACY-LAB-3544,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.734,3,79,0,1
+208,LEGACY-DX-6708,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.552,2,354,0,1
+209,LEGACY-DX-9332,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.781,1,183,0,1
+210,LEGACY-DX-6019,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.747,3,398,0,1
+211,LEGACY-RX-2254,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.68,5,41,0,1
+212,LEGACY-LAB-8059,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.865,3,262,0,1
+213,LEGACY-PROC-3469,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.895,5,493,0,1
+214,LEGACY-DX-4409,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.841,5,394,0,1
+215,LEGACY-DX-4991,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.583,3,303,0,1
+216,LEGACY-RX-2875,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.74,5,271,0,1
+217,LEGACY-PROC-6872,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.788,3,224,0,1
+218,LEGACY-DX-7711,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.711,3,299,0,1
+219,LEGACY-DX-7447,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.824,6,59,0,1
+220,LEGACY-PROC-1681,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.87,2,65,0,1
+221,LEGACY-RX-6889,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.981,5,400,0,1
+222,LEGACY-RX-1090,LEGACY-RX,Local code — no standard description on file,RxNorm,,Lisinopril 10 MG oral tablet,0,0.026,8,242,0,1
+223,LEGACY-PROC-4297,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.75,2,367,0,1
+224,LEGACY-DX-4691,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.651,3,81,0,1
+225,LEGACY-DX-8038,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.583,5,394,0,1
+226,LEGACY-DX-3761,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.634,4,246,0,1
+227,LEGACY-DX-2805,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.61,3,113,0,1
+228,LEGACY-LAB-8429,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.567,4,439,0,1
+229,LEGACY-LAB-3226,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.819,3,343,0,1
+230,LEGACY-LAB-7845,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.919,3,378,0,1
+231,LEGACY-DX-6138,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.97,5,489,0,1
+232,LEGACY-RX-8048,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.785,5,346,0,1
+233,LEGACY-LAB-7283,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.816,4,316,0,1
+234,LEGACY-DX-8088,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.863,1,479,0,1
+235,LEGACY-RX-1715,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.763,5,479,0,1
+236,LEGACY-LAB-2976,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.712,3,170,0,1
+237,LEGACY-LAB-3407,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.588,4,356,0,1
+238,LEGACY-LAB-6349,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.644,3,128,0,1
+239,LEGACY-DX-6022,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.705,3,360,0,1
+240,LEGACY-DX-5818,LEGACY-DX,Fever local variant,SNOMED CT,,Fever,0,0.413,3,298,1,1
+241,LEGACY-DX-5564,LEGACY-DX,Local code — no standard description on file,ICD-10,,Gastroesophageal reflux disease,0,0.004,8,111,0,1
+242,LEGACY-RX-5618,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.044,8,317,0,1
+243,LEGACY-DX-4827,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.613,5,293,0,1
+244,LEGACY-LAB-5521,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.781,3,95,0,1
+245,LEGACY-DX-2042,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.858,3,153,0,1
+246,LEGACY-RX-1546,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.983,5,460,0,1
+247,LEGACY-PROC-3692,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.553,4,143,0,1
+248,LEGACY-LAB-1081,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,1.0,3,213,0,1
+249,LEGACY-LAB-9800,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.931,4,51,0,1
+250,LEGACY-DX-7310,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.795,3,220,0,1
+251,LEGACY-DX-4468,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.694,3,338,0,1
+252,LEGACY-DX-4343,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.706,3,125,0,1
+253,LEGACY-DX-6132,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.895,2,17,0,1
+254,LEGACY-PROC-6945,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.843,3,160,0,1
+255,LEGACY-RX-6354,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.795,5,336,0,1
+256,LEGACY-DX-3579,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.641,3,162,0,1
+257,LEGACY-RX-2923,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.685,5,67,0,1
+258,LEGACY-DX-8000,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.569,2,144,0,1
+259,LEGACY-LAB-9488,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.764,3,145,0,1
+260,LEGACY-RX-4669,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.932,5,422,0,1
+261,LEGACY-DX-8082,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.936,6,414,0,1
+262,LEGACY-DX-2787,LEGACY-DX,Atherosclerotic heart local variant,ICD-10,,Atherosclerotic heart disease,0,0.366,4,290,0,1
+263,LEGACY-PROC-3350,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.594,5,29,0,1
+264,LEGACY-PROC-4485,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.571,3,321,0,1
+265,LEGACY-DX-7105,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.663,5,223,0,1
+266,LEGACY-DX-1543,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.682,3,328,0,1
+267,LEGACY-DX-8714,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.729,3,243,0,1
+268,LEGACY-LAB-6678,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.974,3,24,0,1
+269,LEGACY-RX-8550,LEGACY-RX,Local code — no standard description on file,RxNorm,,Sertraline 50 MG oral tablet,0,0.081,8,475,0,1
+270,LEGACY-DX-5274,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.742,2,297,0,1
+271,LEGACY-LAB-6999,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glucose in blood fasting,0,0.134,8,418,0,1
+272,LEGACY-LAB-1790,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.967,3,312,0,1
+273,LEGACY-PROC-3297,LEGACY-PROC,Chest x-ray local variant,CPT,,Chest x-ray two views,0,0.615,4,23,0,1
+274,LEGACY-RX-3383,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.654,2,354,0,1
+275,LEGACY-DX-2877,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.888,6,264,0,1
+276,LEGACY-DX-6218,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.807,4,155,0,1
+277,LEGACY-LAB-1766,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.987,3,350,0,1
+278,LEGACY-DX-2959,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.856,2,218,0,1
+279,LEGACY-PROC-7814,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.647,4,159,0,1
+280,LEGACY-LAB-7166,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.862,4,441,0,1
+281,LEGACY-RX-8143,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.818,2,60,0,1
+282,LEGACY-LAB-3957,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.999,4,484,0,1
+283,LEGACY-DX-7205,LEGACY-DX,Heart failure local variant,SNOMED CT,,Heart failure,0,0.431,4,337,0,1
+284,LEGACY-PROC-8423,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.981,4,21,0,1
+285,LEGACY-DX-1042,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.924,3,248,0,1
+286,LEGACY-DX-9939,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.645,2,272,0,1
+287,LEGACY-RX-3138,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.603,5,434,0,1
+288,LEGACY-PROC-2701,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.926,3,431,0,1
+289,LEGACY-DX-1268,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.67,5,171,0,1
+290,LEGACY-RX-2737,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.618,5,241,0,1
+291,LEGACY-DX-4291,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.659,1,138,0,1
+292,LEGACY-RX-5157,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.911,5,430,0,1
+293,LEGACY-LAB-9072,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.653,3,365,0,1
+294,LEGACY-PROC-6811,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.929,5,264,0,1
+295,LEGACY-DX-1717,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.877,2,348,0,1
+296,LEGACY-RX-2289,LEGACY-RX,Amoxicillin 500 local variant,RxNorm,,Amoxicillin 500 MG oral capsule,0,0.508,4,317,0,1
+297,LEGACY-LAB-7289,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.907,3,481,0,1
+298,LEGACY-LAB-2181,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.777,3,225,0,1
+299,LEGACY-DX-3885,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.799,2,443,0,1
+300,LEGACY-DX-4700,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.789,3,11,0,1
+301,LEGACY-RX-3483,LEGACY-RX,Amoxicillin 500 local variant,RxNorm,,Amoxicillin 500 MG oral capsule,0,0.421,4,396,0,1
+302,LEGACY-DX-5413,LEGACY-DX,Local code — no standard description on file,ICD-10,,Major depressive disorder single episode moderate,0,0.11,8,48,0,1
+303,LEGACY-LAB-3020,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.586,3,243,0,1
+304,LEGACY-DX-1742,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.947,5,209,0,1
+305,LEGACY-PROC-8607,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.623,2,429,0,1
+306,LEGACY-DX-1176,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.637,3,444,0,1
+307,LEGACY-RX-6267,LEGACY-RX,Local code — no standard description on file,RxNorm,,Levothyroxine 50 MCG oral tablet,0,0.117,8,440,0,1
+308,LEGACY-DX-1101,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.82,4,133,0,1
+309,LEGACY-RX-2504,LEGACY-RX,Omeprazole 20 local variant,RxNorm,,Omeprazole 20 MG oral capsule,0,0.567,4,176,0,1
+310,LEGACY-DX-3460,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.977,2,494,0,1
+311,LEGACY-RX-5983,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.855,5,427,0,1
+312,LEGACY-PROC-3809,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.693,5,290,0,1
+313,LEGACY-DX-7059,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.71,3,304,0,1
+314,LEGACY-DX-4968,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.668,3,92,0,1
+315,LEGACY-PROC-2628,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.996,5,274,0,1
+316,LEGACY-RX-9391,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.79,5,241,0,1
+317,LEGACY-DX-5359,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.992,3,64,0,1
+318,LEGACY-RX-4805,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.581,5,127,0,1
+319,LEGACY-DX-3971,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.979,3,328,0,1
+320,LEGACY-PROC-1033,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.691,4,147,0,1
+321,LEGACY-LAB-3205,LEGACY-LAB,Hemoglobin A1c local variant,LOINC,,Hemoglobin A1c in blood,0,0.605,4,245,0,1
+322,LEGACY-DX-4900,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.603,2,321,0,1
+323,LEGACY-LAB-4015,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.702,3,84,0,1
+324,LEGACY-DX-2761,LEGACY-DX,Atherosclerotic heart local variant,ICD-10,,Atherosclerotic heart disease,0,0.365,4,251,0,1
+325,LEGACY-DX-8549,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.628,3,88,0,1
+326,LEGACY-LAB-2860,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.604,3,51,0,1
+327,LEGACY-RX-8353,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.651,5,298,0,1
+328,LEGACY-RX-9020,LEGACY-RX,Local code — no standard description on file,RxNorm,,Albuterol inhaler,0,0.177,8,343,0,1
+329,LEGACY-PROC-8858,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.953,5,12,0,1
+330,LEGACY-DX-1746,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.86,3,456,0,1
+331,LEGACY-PROC-3289,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.929,4,242,0,1
+332,LEGACY-DX-5745,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.769,6,336,0,1
+333,LEGACY-PROC-1037,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.964,4,241,0,1
+334,LEGACY-RX-6520,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.658,5,73,0,1
+335,LEGACY-DX-8840,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.851,2,88,0,1
+336,LEGACY-DX-1445,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.741,3,6,0,1
+337,LEGACY-DX-6487,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.737,3,248,0,1
+338,LEGACY-PROC-5512,LEGACY-PROC,Comprehensive metabolic local variant,CPT,,Comprehensive metabolic panel,0,0.417,4,472,1,1
+339,LEGACY-PROC-8114,LEGACY-PROC,Electrocardiogram routine local variant,CPT,,Electrocardiogram routine,0,0.421,4,455,1,1
+340,LEGACY-DX-6239,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.835,4,223,0,1
+341,LEGACY-DX-7897,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.924,2,407,0,1
+342,LEGACY-PROC-9273,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.671,2,96,0,1
+343,LEGACY-DX-8750,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.999,3,257,0,1
+344,LEGACY-DX-5163,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.704,5,163,0,1
+345,LEGACY-DX-6045,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.812,3,369,0,1
+346,LEGACY-DX-9522,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.557,2,103,0,1
+347,LEGACY-DX-6935,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.993,2,115,0,1
+348,LEGACY-PROC-1670,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.746,2,266,0,1
+349,LEGACY-RX-4657,LEGACY-RX,Metformin 500 local variant,RxNorm,,Metformin 500 MG oral tablet,0,0.415,4,416,1,1
+350,LEGACY-LAB-1583,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.659,4,82,0,1
+351,LEGACY-LAB-3174,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.59,3,471,0,1
+352,LEGACY-LAB-6905,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glomerular filtration rate,0,0.065,8,44,0,1
+353,LEGACY-DX-6631,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.712,6,437,0,1
+354,LEGACY-LAB-9563,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.722,3,373,0,1
+355,LEGACY-DX-3473,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.701,2,340,0,1
+356,LEGACY-RX-2917,LEGACY-RX,Local code — no standard description on file,RxNorm,,Omeprazole 20 MG oral capsule,0,0.088,8,59,0,1
+357,LEGACY-DX-3205,LEGACY-DX,Type 2 local variant,ICD-10,,Type 2 diabetes without complications,0,0.649,4,446,1,1
+358,LEGACY-PROC-3467,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.852,4,208,0,1
+359,LEGACY-RX-8890,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.599,2,444,0,1
+360,LEGACY-DX-8764,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.817,2,469,0,1
+361,LEGACY-RX-3593,LEGACY-RX,Local code — no standard description on file,RxNorm,,Levothyroxine 50 MCG oral tablet,0,0.135,8,245,0,1
+362,LEGACY-DX-1740,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.885,1,180,0,1
+363,LEGACY-LAB-2021,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.898,3,95,0,1
+364,LEGACY-PROC-6751,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.958,4,295,0,1
+365,LEGACY-DX-5518,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.694,2,92,0,1
+366,LEGACY-RX-9634,LEGACY-RX,Amoxicillin 500 local variant,RxNorm,,Amoxicillin 500 MG oral capsule,0,0.368,4,67,0,1
+367,LEGACY-LAB-4328,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.776,3,375,0,1
+368,LEGACY-LAB-4672,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.791,3,361,0,1
+369,LEGACY-PROC-1570,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.664,4,276,0,1
+370,LEGACY-DX-1217,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.775,5,439,0,1
+371,LEGACY-LAB-6273,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.771,4,391,0,1
+372,LEGACY-DX-6798,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.978,3,358,0,1
+373,LEGACY-RX-1021,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.83,5,261,0,1
+374,LEGACY-LAB-3777,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.982,3,137,0,1
+375,LEGACY-DX-7409,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.777,5,41,0,1
+376,LEGACY-PROC-2815,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.731,6,186,0,1
+377,LEGACY-RX-5371,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.789,5,298,0,1
+378,LEGACY-DX-6822,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Asthma,0,0.158,8,318,0,1
+379,LEGACY-DX-3107,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.772,3,400,0,1
+380,LEGACY-LAB-3098,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.632,4,32,0,1
+381,LEGACY-PROC-3636,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.799,4,357,0,1
+382,LEGACY-PROC-4248,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.658,4,35,0,1
+383,LEGACY-DX-2591,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.949,3,350,0,1
+384,LEGACY-DX-7114,LEGACY-DX,Diabetes mellitus local variant,SNOMED CT,,Diabetes mellitus,0,0.596,4,294,1,1
+385,LEGACY-PROC-9829,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.754,5,311,0,1
+386,LEGACY-PROC-3637,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.884,6,202,0,1
+387,LEGACY-DX-6929,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.761,6,369,0,1
+388,LEGACY-DX-2207,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.57,6,297,0,1
+389,LEGACY-PROC-9967,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.863,6,335,0,1
+390,LEGACY-DX-5171,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.628,1,257,0,1
+391,LEGACY-DX-3531,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.62,3,359,0,1
+392,LEGACY-PROC-1384,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.999,3,438,0,1
+393,LEGACY-DX-1566,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.853,6,211,0,1
+394,LEGACY-DX-1233,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.872,6,288,0,1
+395,LEGACY-RX-6745,LEGACY-RX,Atorvastatin 20 local variant,RxNorm,,Atorvastatin 20 MG oral tablet,0,0.523,4,461,1,1
+396,LEGACY-LAB-7518,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.727,3,123,0,1
+397,LEGACY-PROC-4741,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.971,5,255,0,1
+398,LEGACY-PROC-6180,LEGACY-PROC,Local code — no standard description on file,CPT,,Emergency department visit high severity,0,0.125,8,96,0,1
+399,LEGACY-LAB-9994,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.643,4,210,0,1
+400,LEGACY-DX-8497,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.707,3,262,0,1
+401,LEGACY-DX-4494,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.815,5,286,0,1
+402,LEGACY-LAB-6595,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.639,3,203,0,1
+403,LEGACY-DX-3434,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.584,3,147,0,1
+404,LEGACY-DX-3492,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.839,5,138,0,1
+405,LEGACY-LAB-2939,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.997,4,60,0,1
+406,LEGACY-LAB-5730,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.564,4,328,0,1
+407,LEGACY-PROC-9641,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient,0,0.051,8,34,0,1
+408,LEGACY-DX-6108,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.886,2,447,0,1
+409,LEGACY-DX-7345,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.749,3,160,0,1
+410,LEGACY-RX-6146,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.936,5,202,0,1
+411,LEGACY-DX-6648,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.892,3,325,0,1
+412,LEGACY-DX-4379,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.93,5,75,0,1
+413,LEGACY-RX-2826,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.755,5,34,0,1
+414,LEGACY-DX-3958,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.834,3,369,0,1
+415,LEGACY-DX-2141,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.72,3,49,0,1
+416,LEGACY-PROC-5355,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.629,3,155,0,1
+417,LEGACY-DX-1338,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.613,3,464,0,1
+418,LEGACY-LAB-9096,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.571,3,129,0,1
+419,LEGACY-DX-5369,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.944,5,255,0,1
+420,LEGACY-PROC-3721,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.618,4,470,0,1
+421,LEGACY-LAB-8674,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.554,4,107,0,1
+422,LEGACY-DX-3479,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.631,2,315,0,1
+423,LEGACY-DX-4033,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.929,3,160,0,1
+424,LEGACY-RX-9558,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.554,5,126,0,1
+425,LEGACY-LAB-1563,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.574,3,237,0,1
+426,LEGACY-DX-6425,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.618,3,163,0,1
+427,LEGACY-LAB-8283,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.857,3,292,0,1
+428,LEGACY-DX-4937,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.643,3,442,0,1
+429,LEGACY-DX-3212,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.719,5,269,0,1
+430,LEGACY-LAB-5129,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.948,4,240,0,1
+431,LEGACY-DX-1802,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.776,4,125,0,1
+432,LEGACY-LAB-3893,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.569,3,28,0,1
+433,LEGACY-PROC-8838,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.947,3,29,0,1
+434,LEGACY-DX-6818,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.967,3,242,0,1
+435,LEGACY-DX-7362,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.92,1,18,0,1
+436,LEGACY-DX-8061,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.692,4,426,0,1
+437,LEGACY-DX-9483,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.995,3,144,0,1
+438,LEGACY-LAB-1505,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.89,3,27,0,1
+439,LEGACY-PROC-2736,LEGACY-PROC,Local code — no standard description on file,CPT,,Comprehensive metabolic panel,0,0.105,8,53,0,1
+440,LEGACY-DX-1732,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.96,3,376,0,1
+441,LEGACY-DX-9843,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.835,5,336,0,1
+442,LEGACY-DX-1633,LEGACY-DX,Hypertensive disorder local variant,SNOMED CT,,Hypertensive disorder,0,0.365,4,328,0,1
+443,LEGACY-DX-5770,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.846,3,347,0,1
+444,LEGACY-LAB-8685,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.598,3,68,0,1
+445,LEGACY-LAB-5341,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.81,3,141,0,1
+446,LEGACY-LAB-6353,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.874,4,344,0,1
+447,LEGACY-PROC-7566,LEGACY-PROC,Office outpatient local variant,CPT,,Office outpatient visit established patient detailed,0,0.539,4,178,0,1
+448,LEGACY-DX-8995,LEGACY-DX,Local code — no standard description on file,ICD-10,,Obstructive sleep apnea,0,0.162,8,373,0,1
+449,LEGACY-RX-7462,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.623,5,131,0,1
+450,LEGACY-LAB-8064,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.576,4,432,0,1
+451,LEGACY-PROC-3943,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.604,3,281,0,1
+452,LEGACY-DX-4534,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.589,1,70,0,1
+453,LEGACY-DX-8493,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.675,3,196,0,1
+454,LEGACY-DX-7682,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.71,3,258,0,1
+455,LEGACY-DX-5398,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.627,3,55,0,1
+456,LEGACY-DX-2005,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.713,3,401,0,1
+457,LEGACY-RX-5532,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.732,5,217,0,1
+458,LEGACY-PROC-4346,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.994,5,201,0,1
+459,LEGACY-LAB-3086,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.747,4,307,0,1
+460,LEGACY-DX-9783,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.831,3,141,0,1
+461,LEGACY-DX-9927,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.766,3,464,0,1
+462,LEGACY-DX-3133,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.836,1,374,0,1
+463,LEGACY-DX-3915,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.925,3,210,0,1
+464,LEGACY-DX-3396,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.775,5,367,0,1
+465,LEGACY-PROC-4766,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.817,5,431,0,1
+466,LEGACY-PROC-9453,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.871,4,332,0,1
+467,LEGACY-LAB-7468,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.955,4,265,0,1
+468,LEGACY-LAB-5007,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.485,4,268,1,1
+469,LEGACY-RX-8395,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.578,5,244,0,1
+470,LEGACY-LAB-6021,LEGACY-LAB,Calcium in local variant,LOINC,,Calcium in blood,0,0.46,4,456,0,1
+471,LEGACY-LAB-9237,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.91,4,492,0,1
+472,LEGACY-DX-5522,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.647,1,370,0,1
+473,LEGACY-DX-1961,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.755,3,41,0,1
+474,LEGACY-PROC-6107,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.83,3,32,0,1
+475,LEGACY-LAB-2986,LEGACY-LAB,Hemoglobin A1c local variant,LOINC,,Hemoglobin A1c in blood,0,0.36,4,140,0,1
+476,LEGACY-DX-7581,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.727,1,355,0,1
+477,LEGACY-LAB-4901,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.604,3,432,0,1
+478,LEGACY-LAB-1609,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glucose in blood,0,0.18,8,361,0,1
+479,LEGACY-DX-9817,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.79,2,268,0,1
+480,LEGACY-LAB-4789,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.694,4,437,0,1
+481,LEGACY-DX-1388,LEGACY-DX,Sinusitis local variant,SNOMED CT,,Sinusitis,0,0.6,3,420,1,1
+482,LEGACY-LAB-5709,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.816,3,468,0,1
+483,LEGACY-DX-4519,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.855,2,308,0,1
+484,LEGACY-LAB-5904,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.705,3,90,0,1
+485,LEGACY-PROC-2721,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.997,5,9,0,1
+486,LEGACY-DX-3669,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.867,5,285,0,1
+487,LEGACY-PROC-7060,LEGACY-PROC,Local code — no standard description on file,CPT,,Chest x-ray two views,0,0.016,8,431,0,1
+488,LEGACY-DX-5037,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.899,6,174,0,1
+489,LEGACY-DX-2858,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.594,5,188,0,1
+490,LEGACY-LAB-3349,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.789,3,161,0,1
+491,LEGACY-DX-2953,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.65,3,421,0,1
+492,LEGACY-PROC-7543,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.871,5,416,0,1
+493,LEGACY-PROC-6998,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.812,3,34,0,1
+494,LEGACY-LAB-2539,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.897,3,290,0,1
+495,LEGACY-LAB-5312,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.953,4,391,0,1
+496,LEGACY-PROC-5800,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.699,6,13,0,1
+497,LEGACY-PROC-4922,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.591,2,309,0,1
+498,LEGACY-DX-2487,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.715,1,450,0,1
+499,LEGACY-DX-5674,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.825,1,60,0,1
+500,LEGACY-DX-1264,LEGACY-DX,Local code — no standard description on file,ICD-10,,Gastroesophageal reflux disease,0,0.183,8,399,0,1
+501,LEGACY-DX-2279,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.914,1,116,0,1
+502,LEGACY-DX-4038,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.69,1,475,0,1
+503,LEGACY-LAB-1157,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.766,3,260,0,1
+504,LEGACY-DX-3233,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.881,6,127,0,1
+505,LEGACY-DX-7656,LEGACY-DX,Chronic kidney local variant,ICD-10,,Chronic kidney disease stage 3,0,0.617,4,461,1,1
+506,LEGACY-LAB-6328,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.937,4,183,0,1
+507,LEGACY-PROC-3323,LEGACY-PROC,Comprehensive metabolic local variant,CPT,,Comprehensive metabolic panel,0,0.377,4,173,0,1
+508,LEGACY-LAB-1832,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.571,4,402,0,1
+509,LEGACY-DX-7583,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.841,3,170,0,1
+510,LEGACY-PROC-6316,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.92,4,47,0,1
+511,LEGACY-DX-3136,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.618,1,187,0,1
+512,LEGACY-RX-6523,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.808,5,312,0,1
+513,LEGACY-RX-3449,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.724,5,199,0,1
+514,LEGACY-DX-9226,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.991,3,209,0,1
+515,LEGACY-LAB-6647,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.97,4,485,0,1
+516,LEGACY-PROC-1833,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.765,2,379,0,1
+517,LEGACY-RX-5196,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.946,5,190,0,1
+518,LEGACY-PROC-1393,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.648,6,144,0,1
+519,LEGACY-PROC-3033,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.889,3,202,0,1
+520,LEGACY-DX-3042,LEGACY-DX,Diabetes mellitus local variant,SNOMED CT,,Diabetes mellitus type 2,0,0.616,4,475,0,1
+521,LEGACY-DX-1901,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Hypothyroidism,0,0.15,8,443,0,1
+522,LEGACY-PROC-4331,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.933,4,148,0,1
+523,LEGACY-PROC-3692,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.559,2,303,0,1
+524,LEGACY-DX-6679,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.996,6,481,0,1
+525,LEGACY-DX-3398,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.624,5,179,0,1
+526,LEGACY-RX-1574,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.827,2,275,0,1
+527,LEGACY-PROC-9614,LEGACY-PROC,MRI brain local variant,CPT,,MRI brain without contrast,0,0.593,4,120,1,1
+528,LEGACY-PROC-3371,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.575,2,441,0,1
+529,LEGACY-DX-7749,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.983,3,36,0,1
+530,LEGACY-DX-5674,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.944,1,30,0,1
+531,LEGACY-DX-2684,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.857,3,155,0,1
+532,LEGACY-PROC-3830,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.864,2,301,0,1
+533,LEGACY-LAB-1620,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.903,4,285,0,1
+534,LEGACY-PROC-9620,LEGACY-PROC,MRI brain local variant,CPT,,MRI brain without contrast,0,0.424,4,309,1,1
+535,LEGACY-DX-1775,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.869,1,233,0,1
+536,LEGACY-DX-1162,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.912,1,350,0,1
+537,LEGACY-DX-6622,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.693,5,273,0,1
+538,LEGACY-DX-5105,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.595,5,146,0,1
+539,LEGACY-LAB-9373,LEGACY-LAB,Local code — no standard description on file,LOINC,,Creatinine in blood,0,0.038,8,216,0,1
+540,LEGACY-DX-7734,LEGACY-DX,Local code — no standard description on file,ICD-10,,Type 2 diabetes without complications,0,0.146,8,6,0,1
+541,LEGACY-PROC-5257,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.822,6,217,0,1
+542,LEGACY-DX-9861,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.942,3,242,0,1
+543,LEGACY-DX-6436,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.951,5,279,0,1
+544,LEGACY-DX-5372,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.776,3,148,0,1
+545,LEGACY-DX-3247,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.602,3,322,0,1
+546,LEGACY-RX-3267,LEGACY-RX,Amlodipine 5 local variant,RxNorm,,Amlodipine 5 MG oral tablet,0,0.57,4,175,1,1
+547,LEGACY-LAB-1194,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.644,3,10,0,1
+548,LEGACY-DX-4733,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.857,2,448,0,1
+549,LEGACY-PROC-4455,LEGACY-PROC,Emergency department local variant,CPT,,Emergency department visit high severity,0,0.649,4,35,1,1
+550,LEGACY-DX-5473,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.841,2,141,0,1
+551,LEGACY-LAB-6948,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.918,4,371,0,1
+552,LEGACY-DX-9520,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.984,2,459,0,1
+553,LEGACY-PROC-1820,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.933,2,393,0,1
+554,LEGACY-DX-2618,LEGACY-DX,Fever local variant,SNOMED CT,,Fever,0,0.563,3,159,1,1
+555,LEGACY-DX-8761,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.881,3,50,0,1
+556,LEGACY-DX-8856,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.907,3,441,0,1
+557,LEGACY-DX-4958,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.779,2,112,0,1
+558,LEGACY-DX-6098,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.803,4,321,0,1
+559,LEGACY-LAB-8288,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.607,4,17,0,1
+560,LEGACY-DX-5861,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.973,3,266,0,1
+561,LEGACY-DX-8715,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.765,2,106,0,1
+562,LEGACY-PROC-6129,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient detailed,0,0.185,8,308,0,1
+563,LEGACY-PROC-1277,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.968,4,486,0,1
+564,LEGACY-LAB-4022,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.585,3,137,0,1
+565,LEGACY-DX-2718,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.814,2,468,0,1
+566,LEGACY-DX-9881,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.71,3,428,0,1
+567,LEGACY-LAB-5306,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.667,4,324,0,1
+568,LEGACY-LAB-3227,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.587,3,119,0,1
+569,LEGACY-LAB-3870,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.623,4,311,0,1
+570,LEGACY-RX-9251,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.977,5,356,0,1
+571,LEGACY-DX-7069,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.838,2,330,0,1
+572,LEGACY-DX-7550,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.771,5,499,0,1
+573,LEGACY-PROC-8928,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.679,3,327,0,1
+574,LEGACY-LAB-8360,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.664,4,428,0,1
+575,LEGACY-DX-6581,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.909,3,27,0,1
+576,LEGACY-LAB-6861,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.952,4,148,0,1
+577,LEGACY-LAB-8272,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.959,4,171,0,1
+578,LEGACY-LAB-1727,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.858,3,462,0,1
+579,LEGACY-LAB-7699,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.746,3,287,0,1
+580,LEGACY-DX-7609,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.733,6,230,0,1
+581,LEGACY-DX-5953,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.756,3,24,0,1
+582,LEGACY-PROC-4915,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.693,6,420,0,1
+583,LEGACY-RX-2861,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.883,5,99,0,1
+584,LEGACY-DX-5205,LEGACY-DX,Hypertensive disorder local variant,SNOMED CT,,Hypertensive disorder,0,0.621,4,342,1,1
+585,LEGACY-PROC-6936,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.586,6,96,0,1
+586,LEGACY-PROC-1255,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.788,3,119,0,1
+587,LEGACY-LAB-9544,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.576,3,357,0,1
+588,LEGACY-DX-9121,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.718,1,110,0,1
+589,LEGACY-RX-2082,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.712,5,70,0,1
+590,LEGACY-LAB-8568,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.923,3,121,0,1
+591,LEGACY-LAB-4155,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.783,4,310,0,1
+592,LEGACY-LAB-3317,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.669,4,316,0,1
+593,LEGACY-DX-2092,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.937,5,196,0,1
+594,LEGACY-RX-9645,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.743,5,449,0,1
+595,LEGACY-DX-5588,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.655,3,234,0,1
+596,LEGACY-LAB-7197,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.706,3,418,0,1
+597,LEGACY-DX-3118,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.801,2,173,0,1
+598,LEGACY-DX-2805,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.672,1,111,0,1
+599,LEGACY-RX-1471,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.798,5,34,0,1
+600,LEGACY-PROC-7977,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.721,5,360,0,1
+601,LEGACY-RX-1522,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.967,5,342,0,1
+602,LEGACY-PROC-4062,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.557,4,409,0,1
+603,LEGACY-PROC-8479,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.957,4,165,0,1
+604,LEGACY-PROC-6277,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.946,3,1,0,1
+605,LEGACY-DX-4443,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.778,5,331,0,1
+606,LEGACY-RX-1034,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.902,5,103,0,1
+607,LEGACY-RX-1430,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.739,5,401,0,1
+608,LEGACY-DX-3725,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.556,6,474,0,1
+609,LEGACY-PROC-4411,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.892,3,200,0,1
+610,LEGACY-LAB-8354,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.645,3,151,0,1
+611,LEGACY-PROC-4146,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.805,3,488,0,1
+612,LEGACY-DX-3010,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.678,6,349,0,1
+613,LEGACY-DX-4642,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.944,3,27,0,1
+614,LEGACY-DX-7679,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Sinusitis,0,0.172,8,307,0,1
+615,LEGACY-RX-8273,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.62,5,130,0,1
+616,LEGACY-DX-2518,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.906,3,400,0,1
+617,LEGACY-PROC-5930,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.979,3,42,0,1
+618,LEGACY-DX-7808,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.837,2,476,0,1
+619,LEGACY-LAB-6947,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.634,3,358,0,1
+620,LEGACY-LAB-4326,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.803,4,130,0,1
+621,LEGACY-DX-1427,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.657,5,309,0,1
+622,LEGACY-PROC-1615,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.894,6,81,0,1
+623,LEGACY-DX-6017,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.728,3,144,0,1
+624,LEGACY-DX-3675,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.612,1,38,0,1
+625,LEGACY-LAB-6505,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.711,3,191,0,1
+626,LEGACY-RX-6927,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.703,5,450,0,1
+627,LEGACY-PROC-3418,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.972,6,102,0,1
+628,LEGACY-DX-3298,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.823,6,487,0,1
+629,LEGACY-RX-5933,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.942,5,470,0,1
+630,LEGACY-LAB-4175,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.748,3,308,0,1
+631,LEGACY-PROC-4607,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.596,4,86,0,1
+632,LEGACY-RX-8090,LEGACY-RX,Metformin 500 local variant,RxNorm,,Metformin 500 MG oral tablet,0,0.605,4,156,0,1
+633,LEGACY-DX-4690,LEGACY-DX,Local code — no standard description on file,ICD-10,,Type 2 diabetes without complications,0,0.154,8,492,0,1
+634,LEGACY-LAB-8248,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.746,4,186,0,1
+635,LEGACY-LAB-6115,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.781,3,327,0,1
+636,LEGACY-PROC-8010,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.891,5,15,0,1
+637,LEGACY-DX-3797,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.865,3,345,0,1
+638,LEGACY-PROC-1461,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.94,5,153,0,1
+639,LEGACY-PROC-3502,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.98,4,412,0,1
+640,LEGACY-RX-1123,LEGACY-RX,Local code — no standard description on file,RxNorm,,Amlodipine 5 MG oral tablet,0,0.035,8,26,0,1
+641,LEGACY-DX-7974,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.677,5,72,0,1
+642,LEGACY-PROC-7529,LEGACY-PROC,Local code — no standard description on file,CPT,,MRI brain without contrast,0,0.154,8,51,0,1
+643,LEGACY-LAB-9055,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.836,3,420,0,1
+644,LEGACY-LAB-8985,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.652,3,312,0,1
+645,LEGACY-LAB-6131,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.715,4,477,0,1
+646,LEGACY-PROC-3775,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.942,3,198,0,1
+647,LEGACY-DX-1100,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.661,3,228,0,1
+648,LEGACY-DX-8083,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.976,4,337,0,1
+649,LEGACY-PROC-3322,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.643,5,383,0,1
+650,LEGACY-LAB-1915,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.398,4,361,0,1
+651,LEGACY-LAB-6727,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.787,3,150,0,1
+652,LEGACY-LAB-8253,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.786,4,87,0,1
+653,LEGACY-RX-1783,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.55,5,107,0,1
+654,LEGACY-DX-5421,LEGACY-DX,Local code — no standard description on file,ICD-10,,Essential hypertension,0,0.056,8,373,0,1
+655,LEGACY-DX-8144,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.615,5,5,0,1
+656,LEGACY-PROC-4503,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.747,2,201,0,1
+657,LEGACY-LAB-8829,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.61,3,402,0,1
+658,LEGACY-PROC-8528,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.742,3,89,0,1
+659,LEGACY-RX-8491,LEGACY-RX,Local code — no standard description on file,RxNorm,,Amoxicillin 500 MG oral capsule,0,0.051,8,455,0,1
+660,LEGACY-DX-9441,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.94,3,24,0,1
+661,LEGACY-RX-1634,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.929,5,462,0,1
+662,LEGACY-LAB-7742,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.741,4,293,0,1
+663,LEGACY-LAB-2882,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.565,3,96,0,1
+664,LEGACY-RX-8330,LEGACY-RX,Albuterol inhaler local variant,RxNorm,,Albuterol inhaler,0,0.585,4,419,0,1
+665,LEGACY-PROC-7477,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.752,3,300,0,1
+666,LEGACY-DX-1398,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.809,3,391,0,1
+667,LEGACY-PROC-3135,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.699,5,244,0,1
+668,LEGACY-DX-3013,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.649,5,497,0,1
+669,LEGACY-DX-3568,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.841,1,248,0,1
+670,LEGACY-RX-1399,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.916,5,121,0,1
+671,LEGACY-DX-4464,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.739,3,36,0,1
+672,LEGACY-RX-1739,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.981,5,418,0,1
+673,LEGACY-PROC-9889,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.631,3,72,0,1
+674,LEGACY-PROC-3703,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.927,4,168,0,1
+675,LEGACY-DX-9536,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.63,3,187,0,1
+676,LEGACY-RX-5177,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.96,5,264,0,1
+677,LEGACY-DX-4382,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.879,4,203,0,1
+678,LEGACY-LAB-4127,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glomerular filtration rate,0,0.018,8,14,0,1
+679,LEGACY-DX-9807,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.738,4,148,0,1
+680,LEGACY-DX-3717,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.649,3,235,0,1
+681,LEGACY-LAB-4811,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.8,4,28,0,1
+682,LEGACY-RX-9915,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.891,5,254,0,1
+683,LEGACY-DX-1670,LEGACY-DX,Atherosclerotic heart local variant,ICD-10,,Atherosclerotic heart disease,0,0.43,4,446,1,1
+684,LEGACY-LAB-3673,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.86,3,461,0,1
+685,LEGACY-DX-9220,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.615,5,122,0,1
+686,LEGACY-PROC-6443,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.931,4,114,0,1
+687,LEGACY-LAB-9165,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.647,3,180,0,1
+688,LEGACY-DX-3531,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.745,3,152,0,1
+689,LEGACY-DX-8660,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.78,3,444,0,1
+690,LEGACY-RX-5229,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.864,5,158,0,1
+691,LEGACY-PROC-9053,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.885,5,331,0,1
+692,LEGACY-LAB-1472,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.697,4,193,0,1
+693,LEGACY-LAB-8444,LEGACY-LAB,Local code — no standard description on file,LOINC,,Creatinine in blood,0,0.027,8,38,0,1
+694,LEGACY-DX-8820,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.958,2,424,0,1
+695,LEGACY-DX-9092,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.941,2,378,0,1
+696,LEGACY-PROC-2466,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.675,4,166,0,1
+697,LEGACY-DX-3180,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.696,2,347,0,1
+698,LEGACY-DX-7251,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.74,1,451,0,1
+699,LEGACY-RX-4111,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.561,5,224,0,1
+700,LEGACY-DX-6457,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.893,1,332,0,1
+701,LEGACY-PROC-2867,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.884,2,340,0,1
+702,LEGACY-DX-4167,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.774,1,163,0,1
+703,LEGACY-RX-3424,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.575,5,259,0,1
+704,LEGACY-PROC-5782,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.756,5,380,0,1
+705,LEGACY-LAB-9175,LEGACY-LAB,Cholesterol total local variant,LOINC,,Cholesterol total in blood,0,0.59,4,98,0,1
+706,LEGACY-PROC-3756,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.957,5,170,0,1
+707,LEGACY-PROC-2257,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.79,3,57,0,1
+708,LEGACY-RX-5336,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.716,2,487,0,1
+709,LEGACY-DX-8506,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.791,5,76,0,1
+710,LEGACY-RX-9265,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.828,5,450,0,1
+711,LEGACY-DX-6143,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.859,3,113,0,1
+712,LEGACY-DX-3018,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.863,6,473,0,1
+713,LEGACY-PROC-1393,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.618,5,68,0,1
+714,LEGACY-PROC-3835,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.681,5,320,0,1
+715,LEGACY-DX-4226,LEGACY-DX,Unspecified asthma local variant,ICD-10,,Unspecified asthma uncomplicated,0,0.376,4,126,0,1
+716,LEGACY-DX-8777,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.924,3,458,0,1
+717,LEGACY-DX-6094,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.573,3,151,0,1
+718,LEGACY-DX-1138,LEGACY-DX,Hypothyroidism local variant,SNOMED CT,,Hypothyroidism,0,0.492,3,129,1,1
+719,LEGACY-RX-9973,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.684,5,360,0,1
+720,LEGACY-DX-8602,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.593,3,304,0,1
+721,LEGACY-PROC-4065,LEGACY-PROC,Local code — no standard description on file,CPT,,MRI brain without contrast,0,0.172,8,442,0,1
+722,LEGACY-PROC-4434,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.687,6,458,0,1
+723,LEGACY-PROC-1655,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.906,6,347,0,1
+724,LEGACY-DX-5024,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.806,3,159,0,1
+725,LEGACY-DX-2252,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.96,3,193,0,1
+726,LEGACY-LAB-2445,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.677,3,222,0,1
+727,LEGACY-LAB-8199,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.638,3,280,0,1
+728,LEGACY-PROC-3545,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.97,5,70,0,1
+729,LEGACY-DX-3492,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.603,3,103,0,1
+730,LEGACY-DX-2234,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.58,3,199,0,1
+731,LEGACY-DX-8963,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.607,1,335,0,1
+732,LEGACY-RX-1881,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.697,5,33,0,1
+733,LEGACY-DX-7949,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.987,3,396,0,1
+734,LEGACY-PROC-9114,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.836,6,176,0,1
+735,LEGACY-PROC-3815,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.913,6,237,0,1
+736,LEGACY-LAB-1926,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.758,3,430,0,1
+737,LEGACY-PROC-3565,LEGACY-PROC,Local code — no standard description on file,CPT,,Therapeutic procedure one or more areas,0,0.089,8,337,0,1
+738,LEGACY-PROC-6844,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.818,5,122,0,1
+739,LEGACY-RX-6730,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.635,5,12,0,1
+740,LEGACY-LAB-4624,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.603,4,282,0,1
+741,LEGACY-DX-6693,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.735,3,168,0,1
+742,LEGACY-DX-8268,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.936,2,59,0,1
+743,LEGACY-DX-6015,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.597,1,315,0,1
+744,LEGACY-DX-2135,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.934,1,163,0,1
+745,LEGACY-LAB-1610,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.569,3,22,0,1
+746,LEGACY-LAB-4257,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.948,3,173,0,1
+747,LEGACY-DX-9491,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.719,2,469,0,1
+748,LEGACY-DX-3206,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.772,3,359,0,1
+749,LEGACY-PROC-5925,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.903,5,321,0,1
+750,LEGACY-LAB-2073,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.66,3,490,0,1
+751,LEGACY-PROC-3604,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.643,6,207,0,1
+752,LEGACY-DX-1802,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Depressive disorder,0,0.087,8,496,0,1
+753,LEGACY-DX-1641,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.937,3,440,0,1
+754,LEGACY-DX-9882,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.564,3,298,0,1
+755,LEGACY-RX-4661,LEGACY-RX,Local code — no standard description on file,RxNorm,,Lisinopril 10 MG oral tablet,0,0.085,8,223,0,1
+756,LEGACY-DX-8191,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.889,5,60,0,1
+757,LEGACY-DX-7980,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.968,1,320,0,1
+758,LEGACY-PROC-6982,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.786,5,103,0,1
+759,LEGACY-LAB-8165,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.579,3,39,0,1
+760,LEGACY-DX-6667,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.976,4,277,0,1
+761,LEGACY-RX-2472,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.131,8,55,0,1
+762,LEGACY-LAB-2382,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.744,3,241,0,1
+763,LEGACY-DX-1766,LEGACY-DX,Fever local variant,SNOMED CT,,Fever,0,0.391,3,328,0,1
+764,LEGACY-LAB-5710,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.901,3,165,0,1
+765,LEGACY-DX-4774,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.967,6,269,0,1
+766,LEGACY-LAB-7182,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.585,4,499,0,1
+767,LEGACY-PROC-1523,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.796,5,166,0,1
+768,LEGACY-LAB-2567,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.635,4,23,0,1
+769,LEGACY-DX-6772,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.64,2,479,0,1
+770,LEGACY-PROC-4980,LEGACY-PROC,Electrocardiogram routine local variant,CPT,,Electrocardiogram routine,0,0.409,4,156,0,1
+771,LEGACY-LAB-6623,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.569,3,34,0,1
+772,LEGACY-LAB-8720,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.802,3,105,0,1
+773,LEGACY-PROC-1178,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.958,5,298,0,1
+774,LEGACY-DX-6572,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.838,1,276,0,1
+775,LEGACY-LAB-3473,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.748,4,398,0,1
+776,LEGACY-DX-4289,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.921,3,44,0,1
+777,LEGACY-RX-2696,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.776,5,30,0,1
+778,LEGACY-DX-6019,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.898,3,117,0,1
+779,LEGACY-RX-7370,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.599,5,497,0,1
+780,LEGACY-DX-3101,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.776,3,58,0,1
+781,LEGACY-PROC-4686,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.996,6,52,0,1
+782,LEGACY-DX-4556,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.772,2,309,0,1
+783,LEGACY-PROC-5862,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.796,4,344,0,1
+784,LEGACY-RX-8966,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.838,5,98,0,1
+785,LEGACY-DX-9408,LEGACY-DX,Generalized anxiety local variant,ICD-10,,Generalized anxiety disorder,0,0.601,4,137,1,1
+786,LEGACY-LAB-8309,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.771,3,27,0,1
+787,LEGACY-RX-1185,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.856,5,273,0,1
+788,LEGACY-LAB-9863,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.78,3,189,0,1
+789,LEGACY-RX-5018,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.794,5,402,0,1
+790,LEGACY-LAB-6372,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.617,4,418,0,1
+791,LEGACY-RX-1930,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.635,5,205,0,1
+792,LEGACY-PROC-6715,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.712,5,169,0,1
+793,LEGACY-PROC-6409,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.81,4,124,0,1
+794,LEGACY-DX-2531,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.663,4,87,0,1
+795,LEGACY-LAB-5734,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.659,3,363,0,1
+796,LEGACY-RX-5100,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.816,5,213,0,1
+797,LEGACY-RX-6120,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.871,5,454,0,1
+798,LEGACY-PROC-9115,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.701,6,275,0,1
+799,LEGACY-RX-5789,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.677,5,367,0,1
+800,LEGACY-LAB-5192,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.644,3,271,0,1
+801,LEGACY-DX-8029,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.944,3,95,0,1
+802,LEGACY-DX-7383,LEGACY-DX,Atherosclerotic heart local variant,ICD-10,,Atherosclerotic heart disease,0,0.504,4,419,0,1
+803,LEGACY-PROC-8229,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.794,6,384,0,1
+804,LEGACY-DX-5534,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.576,2,406,0,1
+805,LEGACY-PROC-1063,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.681,6,53,0,1
+806,LEGACY-DX-7414,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.832,3,232,0,1
+807,LEGACY-DX-6745,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.955,3,248,0,1
+808,LEGACY-LAB-6361,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.821,3,138,0,1
+809,LEGACY-RX-2117,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.897,5,217,0,1
+810,LEGACY-DX-8620,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.947,2,93,0,1
+811,LEGACY-PROC-6225,LEGACY-PROC,Local code — no standard description on file,CPT,,Emergency department visit high severity,0,0.152,8,23,0,1
+812,LEGACY-PROC-3461,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.973,4,420,0,1
+813,LEGACY-PROC-8800,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.675,3,273,0,1
+814,LEGACY-LAB-8706,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.594,4,202,0,1
+815,LEGACY-RX-9101,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.881,5,263,0,1
+816,LEGACY-LAB-5818,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.584,4,187,0,1
+817,LEGACY-LAB-2300,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.968,4,165,0,1
+818,LEGACY-LAB-3953,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.747,3,467,0,1
+819,LEGACY-PROC-2643,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.565,4,444,0,1
+820,LEGACY-DX-3138,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.752,5,272,0,1
+821,LEGACY-PROC-9782,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.831,5,234,0,1
+822,LEGACY-DX-9876,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.945,2,8,0,1
+823,LEGACY-DX-7388,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.61,3,382,0,1
+824,LEGACY-DX-9643,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.921,2,220,0,1
+825,LEGACY-DX-9011,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.928,3,478,0,1
+826,LEGACY-DX-3718,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.989,3,135,0,1
+827,LEGACY-PROC-6882,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.736,3,245,0,1
+828,LEGACY-PROC-5605,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.662,4,138,0,1
+829,LEGACY-DX-2086,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.993,2,373,0,1
+830,LEGACY-DX-6501,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.616,3,420,0,1
+831,LEGACY-DX-2841,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.67,3,49,0,1
+832,LEGACY-DX-8086,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.65,1,279,0,1
+833,LEGACY-RX-1647,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.593,2,450,0,1
+834,LEGACY-DX-7928,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.707,3,365,0,1
+835,LEGACY-DX-8871,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.967,2,444,0,1
+836,LEGACY-PROC-3459,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.967,4,279,0,1
+837,LEGACY-LAB-8336,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.774,3,276,0,1
+838,LEGACY-DX-2427,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.894,5,247,0,1
+839,LEGACY-DX-7801,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.597,1,495,0,1
+840,LEGACY-DX-3602,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.621,3,472,0,1
+841,LEGACY-DX-1427,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.598,6,35,0,1
+842,LEGACY-DX-6396,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Fever,0,0.104,8,88,0,1
+843,LEGACY-DX-3536,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.673,5,329,0,1
+844,LEGACY-PROC-1753,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.665,6,451,0,1
+845,LEGACY-LAB-2488,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.753,3,468,0,1
+846,LEGACY-DX-3636,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.581,3,494,0,1
+847,LEGACY-DX-1363,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.98,2,487,0,1
+848,LEGACY-RX-6308,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.604,5,144,0,1
+849,LEGACY-DX-6589,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.585,3,456,0,1
+850,LEGACY-DX-4611,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.68,6,85,0,1
+851,LEGACY-DX-8750,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.868,3,458,0,1
+852,LEGACY-DX-6954,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.95,4,453,0,1
+853,LEGACY-DX-5072,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.63,2,445,0,1
+854,LEGACY-LAB-7664,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.767,3,255,0,1
+855,LEGACY-RX-6990,LEGACY-RX,Albuterol inhaler local variant,RxNorm,,Albuterol inhaler,0,0.412,4,106,1,1
+856,LEGACY-LAB-8365,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.981,3,124,0,1
+857,LEGACY-DX-1928,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.677,3,219,0,1
+858,LEGACY-DX-9449,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.818,3,212,0,1
+859,LEGACY-LAB-7479,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.576,4,192,0,1
+860,LEGACY-RX-9985,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.61,5,445,0,1
+861,LEGACY-DX-5252,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.662,3,59,0,1
+862,LEGACY-DX-7918,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.91,2,253,0,1
+863,LEGACY-LAB-1491,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.589,4,331,0,1
+864,LEGACY-DX-4057,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.972,5,433,0,1
+865,LEGACY-DX-2075,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.811,2,420,0,1
+866,LEGACY-LAB-3666,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.927,3,243,0,1
+867,LEGACY-RX-8335,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.96,5,489,0,1
+868,LEGACY-RX-6620,LEGACY-RX,Amlodipine 5 local variant,RxNorm,,Amlodipine 5 MG oral tablet,0,0.582,4,243,1,1
+869,LEGACY-DX-2785,LEGACY-DX,Local code — no standard description on file,ICD-10,,Unspecified asthma uncomplicated,0,0.102,8,163,0,1
+870,LEGACY-PROC-1072,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.813,6,314,0,1
+871,LEGACY-LAB-1479,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.599,3,263,0,1
+872,LEGACY-LAB-4155,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.964,4,74,0,1
+873,LEGACY-LAB-3469,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.552,3,176,0,1
+874,LEGACY-PROC-7483,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.889,4,299,0,1
+875,LEGACY-PROC-6310,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.582,3,130,0,1
+876,LEGACY-PROC-5924,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.992,3,355,0,1
+877,LEGACY-LAB-8196,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.579,3,375,0,1
+878,LEGACY-RX-5020,LEGACY-RX,Albuterol inhaler local variant,RxNorm,,Albuterol inhaler,0,0.531,4,296,1,1
+879,LEGACY-PROC-1007,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.652,2,478,0,1
+880,LEGACY-RX-8742,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.577,5,445,0,1
+881,LEGACY-PROC-4911,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.897,2,408,0,1
+882,LEGACY-DX-6416,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.831,2,333,0,1
+883,LEGACY-LAB-8225,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.951,3,160,0,1
+884,LEGACY-LAB-2404,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.574,4,299,0,1
+885,LEGACY-PROC-2588,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.643,3,307,0,1
+886,LEGACY-PROC-9700,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.881,4,267,0,1
+887,LEGACY-PROC-4888,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.946,5,455,0,1
+888,LEGACY-DX-8937,LEGACY-DX,Obstructive sleep local variant,ICD-10,,Obstructive sleep apnea,0,0.352,4,302,0,1
+889,LEGACY-DX-6176,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.6,3,215,0,1
+890,LEGACY-PROC-5465,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.956,5,251,0,1
+891,LEGACY-RX-1674,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.799,5,497,0,1
+892,LEGACY-DX-5445,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.559,1,450,0,1
+893,LEGACY-LAB-1395,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.738,3,403,0,1
+894,LEGACY-PROC-7451,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.714,5,70,0,1
+895,LEGACY-DX-9576,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.76,1,88,0,1
+896,LEGACY-DX-2591,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.67,3,133,0,1
+897,LEGACY-PROC-4805,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.981,4,361,0,1
+898,LEGACY-DX-4503,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.712,6,16,0,1
+899,LEGACY-LAB-4316,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.764,3,8,0,1
+900,LEGACY-DX-2219,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.716,3,63,0,1
+901,LEGACY-LAB-6602,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.972,3,387,0,1
+902,LEGACY-DX-3096,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.621,3,81,0,1
+903,LEGACY-DX-8525,LEGACY-DX,Asthma local variant,SNOMED CT,,Asthma,0,0.571,3,338,1,1
+904,LEGACY-PROC-4266,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.799,4,213,0,1
+905,LEGACY-DX-5097,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.703,3,479,0,1
+906,LEGACY-DX-1194,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.946,3,156,0,1
+907,LEGACY-PROC-3695,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.751,4,328,0,1
+908,LEGACY-RX-2749,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.786,5,386,0,1
+909,LEGACY-DX-3976,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.827,3,174,0,1
+910,LEGACY-DX-3600,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.742,5,383,0,1
+911,LEGACY-PROC-6597,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.855,2,104,0,1
+912,LEGACY-DX-6016,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.983,4,415,0,1
+913,LEGACY-PROC-7456,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.99,5,328,0,1
+914,LEGACY-RX-5522,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.565,5,207,0,1
+915,LEGACY-DX-2623,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.666,1,184,0,1
+916,LEGACY-DX-2360,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.806,1,125,0,1
+917,LEGACY-DX-1658,LEGACY-DX,Gastroesophageal reflux local variant,ICD-10,,Gastroesophageal reflux disease,0,0.626,4,323,0,1
+918,LEGACY-LAB-6542,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.909,3,393,0,1
+919,LEGACY-PROC-7141,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.98,6,78,0,1
+920,LEGACY-DX-6313,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.866,2,447,0,1
+921,LEGACY-LAB-1904,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.823,4,254,0,1
+922,LEGACY-RX-5070,LEGACY-RX,Local code — no standard description on file,RxNorm,,Levothyroxine 50 MCG oral tablet,0,0.125,8,144,0,1
+923,LEGACY-RX-4985,LEGACY-RX,Local code — no standard description on file,RxNorm,,Amlodipine 5 MG oral tablet,0,0.135,8,25,0,1
+924,LEGACY-LAB-2389,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.713,3,153,0,1
+925,LEGACY-PROC-6195,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.782,4,211,0,1
+926,LEGACY-LAB-4440,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.691,4,498,0,1
+927,LEGACY-DX-9631,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.761,3,102,0,1
+928,LEGACY-PROC-2256,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.913,5,322,0,1
+929,LEGACY-DX-8355,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.855,5,339,0,1
+930,LEGACY-DX-4342,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.878,3,156,0,1
+931,LEGACY-DX-9441,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.556,3,251,0,1
+932,LEGACY-DX-8152,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.834,4,192,0,1
+933,LEGACY-PROC-7437,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.63,6,361,0,1
+934,LEGACY-RX-7003,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.002,8,388,0,1
+935,LEGACY-PROC-5942,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.613,5,145,0,1
+936,LEGACY-PROC-6199,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.674,3,354,0,1
+937,LEGACY-PROC-5357,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.975,4,242,0,1
+938,LEGACY-PROC-8887,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.975,4,198,0,1
+939,LEGACY-PROC-7762,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.589,6,330,0,1
+940,LEGACY-PROC-9223,LEGACY-PROC,Local code — no standard description on file,CPT,,Psychotherapy 60 minutes,0,0.012,8,110,0,1
+941,LEGACY-DX-3772,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.969,2,492,0,1
+942,LEGACY-DX-9154,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.887,2,480,0,1
+943,LEGACY-PROC-9544,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.866,5,398,0,1
+944,LEGACY-PROC-5711,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.783,3,244,0,1
+945,LEGACY-PROC-1584,LEGACY-PROC,Comprehensive metabolic local variant,CPT,,Comprehensive metabolic panel,0,0.646,4,270,1,1
+946,LEGACY-PROC-2119,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.821,4,79,0,1
+947,LEGACY-LAB-3559,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.869,3,483,0,1
+948,LEGACY-DX-4757,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.771,2,409,0,1
+949,LEGACY-PROC-1048,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.712,4,154,0,1
+950,LEGACY-PROC-3941,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.813,6,308,0,1
+951,LEGACY-DX-4194,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.626,5,224,0,1
+952,LEGACY-LAB-4155,LEGACY-LAB,Local code — no standard description on file,LOINC,,Potassium in blood,0,0.06,8,424,0,1
+953,LEGACY-PROC-4463,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.653,4,396,0,1
+954,LEGACY-RX-3109,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.092,8,475,0,1
+955,LEGACY-LAB-6298,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.946,3,19,0,1
+956,LEGACY-RX-6383,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.82,5,388,0,1
+957,LEGACY-RX-1068,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.888,5,19,0,1
+958,LEGACY-PROC-9771,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.697,4,300,0,1
+959,LEGACY-DX-6059,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.872,5,77,0,1
+960,LEGACY-PROC-5909,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.563,4,216,0,1
+961,LEGACY-LAB-1620,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.636,4,496,0,1
+962,LEGACY-DX-6382,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.828,6,410,0,1
+963,LEGACY-LAB-3243,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glucose in blood,0,0.142,8,224,0,1
+964,LEGACY-LAB-3484,LEGACY-LAB,Calcium in local variant,LOINC,,Calcium in blood,0,0.517,4,293,0,1
+965,LEGACY-LAB-3979,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.73,4,470,0,1
+966,LEGACY-RX-6324,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.633,5,33,0,1
+967,LEGACY-DX-4264,LEGACY-DX,Local code — no standard description on file,ICD-10,,Major depressive disorder single episode moderate,0,0.008,8,19,0,1
+968,LEGACY-PROC-1957,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.959,4,385,0,1
+969,LEGACY-RX-8175,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.772,5,297,0,1
+970,LEGACY-DX-7005,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.921,1,230,0,1
+971,LEGACY-DX-8422,LEGACY-DX,Type 2 local variant,ICD-10,,Type 2 diabetes without complications,0,0.541,4,52,1,1
+972,LEGACY-PROC-7302,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.672,4,249,0,1
+973,LEGACY-PROC-9914,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.688,4,405,0,1
+974,LEGACY-RX-7702,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.608,5,33,0,1
+975,LEGACY-LAB-3200,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.587,4,293,1,1
+976,LEGACY-DX-9335,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.703,3,98,0,1
+977,LEGACY-LAB-2829,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.783,3,378,0,1
+978,LEGACY-PROC-7679,LEGACY-PROC,MRI brain local variant,CPT,,MRI brain without contrast,0,0.646,4,36,0,1
+979,LEGACY-DX-5549,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.667,1,392,0,1
+980,LEGACY-LAB-3402,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.736,4,212,0,1
+981,LEGACY-LAB-3338,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.907,3,315,0,1
+982,LEGACY-PROC-9647,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.817,6,155,0,1
+983,LEGACY-LAB-7920,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.771,4,400,0,1
+984,LEGACY-DX-7376,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Fever,0,0.153,8,229,0,1
+985,LEGACY-RX-9964,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.599,5,444,0,1
+986,LEGACY-LAB-8974,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.891,4,251,0,1
+987,LEGACY-LAB-4742,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.726,3,448,0,1
+988,LEGACY-DX-9810,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.761,3,491,0,1
+989,LEGACY-RX-9544,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.65,5,371,0,1
+990,LEGACY-DX-1398,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.873,2,74,0,1
+991,LEGACY-DX-5507,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.719,1,448,0,1
+992,LEGACY-PROC-3325,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.796,2,212,0,1
+993,LEGACY-LAB-4203,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.721,3,139,0,1
+994,LEGACY-DX-3612,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.916,1,209,0,1
+995,LEGACY-RX-9847,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.63,5,185,0,1
+996,LEGACY-PROC-9088,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.56,2,431,0,1
+997,LEGACY-LAB-2499,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.686,4,348,0,1
+998,LEGACY-DX-6722,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.811,1,40,0,1
+999,LEGACY-PROC-6387,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.916,2,158,0,1
+1000,LEGACY-DX-8748,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.875,2,259,0,1
+1001,LEGACY-RX-9403,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.597,5,46,0,1
+1002,LEGACY-PROC-8619,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.981,4,394,0,1
+1003,LEGACY-DX-9434,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.869,3,238,0,1
+1004,LEGACY-RX-2413,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.993,5,266,0,1
+1005,LEGACY-DX-4217,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Depressive disorder,0,0.024,8,373,0,1
+1006,LEGACY-DX-2414,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.882,3,197,0,1
+1007,LEGACY-RX-1559,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.874,5,123,0,1
+1008,LEGACY-PROC-8156,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.825,6,383,0,1
+1009,LEGACY-LAB-4322,LEGACY-LAB,Glomerular filtration local variant,LOINC,,Glomerular filtration rate,0,0.461,4,119,1,1
+1010,LEGACY-PROC-2285,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.585,2,198,0,1
+1011,LEGACY-DX-2788,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.612,5,36,0,1
+1012,LEGACY-DX-4926,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.881,3,484,0,1
+1013,LEGACY-DX-3827,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.88,3,423,0,1
+1014,LEGACY-DX-9082,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.674,2,468,0,1
+1015,LEGACY-RX-3792,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.927,5,475,0,1
+1016,LEGACY-PROC-1653,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.792,5,249,0,1
+1017,LEGACY-DX-1677,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.689,3,359,0,1
+1018,LEGACY-PROC-5104,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.933,4,86,0,1
+1019,LEGACY-PROC-4063,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.821,2,115,0,1
+1020,LEGACY-DX-5486,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.563,2,485,0,1
+1021,LEGACY-PROC-7295,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.638,2,318,0,1
+1022,LEGACY-DX-2042,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.877,3,323,0,1
+1023,LEGACY-DX-9738,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.659,5,182,0,1
+1024,LEGACY-PROC-4911,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.593,6,385,0,1
+1025,LEGACY-DX-5667,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.909,2,216,0,1
+1026,LEGACY-DX-9381,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.934,4,389,0,1
+1027,LEGACY-DX-6865,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.754,3,177,0,1
+1028,LEGACY-PROC-1654,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.558,4,394,0,1
+1029,LEGACY-DX-2907,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.964,1,149,0,1
+1030,LEGACY-RX-5038,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.854,5,115,0,1
+1031,LEGACY-RX-2360,LEGACY-RX,Omeprazole 20 local variant,RxNorm,,Omeprazole 20 MG oral capsule,0,0.399,4,319,0,1
+1032,LEGACY-DX-9766,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.968,1,205,0,1
+1033,LEGACY-RX-5187,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.844,5,113,0,1
+1034,LEGACY-DX-6202,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.778,5,290,0,1
+1035,LEGACY-DX-4193,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.922,3,348,0,1
+1036,LEGACY-LAB-6286,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.551,3,372,0,1
+1037,LEGACY-LAB-3730,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.987,3,236,0,1
+1038,LEGACY-DX-2080,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.925,5,230,0,1
+1039,LEGACY-LAB-9688,LEGACY-LAB,Local code — no standard description on file,LOINC,,Blood pressure panel,0,0.021,8,429,0,1
+1040,LEGACY-DX-6395,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.594,1,351,0,1
+1041,LEGACY-DX-9712,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.772,3,223,0,1
+1042,LEGACY-LAB-3624,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.771,3,449,0,1
+1043,LEGACY-LAB-5166,LEGACY-LAB,Local code — no standard description on file,LOINC,,Urea nitrogen in blood,0,0.149,8,141,0,1
+1044,LEGACY-DX-8465,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.614,3,421,0,1
+1045,LEGACY-DX-9593,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.589,3,392,0,1
+1046,LEGACY-RX-3398,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.977,5,263,0,1
+1047,LEGACY-RX-4153,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.689,5,414,0,1
+1048,LEGACY-DX-1194,LEGACY-DX,Diabetes mellitus local variant,SNOMED CT,,Diabetes mellitus,0,0.533,4,388,1,1
+1049,LEGACY-LAB-4704,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.641,3,182,0,1
+1050,LEGACY-RX-5748,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.629,2,190,0,1
+1051,LEGACY-LAB-4189,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.976,4,463,0,1
+1052,LEGACY-DX-1054,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.918,3,469,0,1
+1053,LEGACY-DX-6062,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.9,3,428,0,1
+1054,LEGACY-RX-7595,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.854,5,456,0,1
+1055,LEGACY-PROC-7959,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.858,3,437,0,1
+1056,LEGACY-DX-2193,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.831,3,61,0,1
+1057,LEGACY-DX-5907,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.593,5,61,0,1
+1058,LEGACY-LAB-5478,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.73,3,475,0,1
+1059,LEGACY-PROC-1034,LEGACY-PROC,Emergency department local variant,CPT,,Emergency department visit high severity,0,0.401,4,253,1,1
+1060,LEGACY-LAB-5690,LEGACY-LAB,Local code — no standard description on file,LOINC,,Urea nitrogen in blood,0,0.015,8,434,0,1
+1061,LEGACY-DX-3370,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.895,3,398,0,1
+1062,LEGACY-RX-4300,LEGACY-RX,Local code — no standard description on file,RxNorm,,Metformin 500 MG oral tablet,0,0.113,8,1,0,1
+1063,LEGACY-RX-1917,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.909,5,210,0,1
+1064,LEGACY-DX-2804,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.921,2,455,0,1
+1065,LEGACY-LAB-3975,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.835,3,305,0,1
+1066,LEGACY-DX-3485,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.732,2,435,0,1
+1067,LEGACY-DX-3128,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.877,3,235,0,1
+1068,LEGACY-PROC-4168,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.629,2,499,0,1
+1069,LEGACY-PROC-5920,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.854,6,155,0,1
+1070,LEGACY-PROC-3720,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.674,5,135,0,1
+1071,LEGACY-PROC-1768,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.992,4,316,0,1
+1072,LEGACY-DX-9253,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.682,4,273,0,1
+1073,LEGACY-RX-5438,LEGACY-RX,Atorvastatin 20 local variant,RxNorm,,Atorvastatin 20 MG oral tablet,0,0.392,4,484,0,1
+1074,LEGACY-LAB-6846,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.701,3,307,0,1
+1075,LEGACY-RX-1825,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.895,5,329,0,1
+1076,LEGACY-DX-9146,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.82,4,66,0,1
+1077,LEGACY-DX-8493,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.646,1,268,0,1
+1078,LEGACY-DX-4375,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.769,4,240,0,1
+1079,LEGACY-PROC-4003,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.943,3,116,0,1
+1080,LEGACY-DX-1115,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.578,2,316,0,1
+1081,LEGACY-RX-4512,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.973,5,162,0,1
+1082,LEGACY-LAB-8969,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.995,3,290,0,1
+1083,LEGACY-PROC-7859,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.61,4,180,0,1
+1084,LEGACY-DX-7142,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.792,2,294,0,1
+1085,LEGACY-DX-3737,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.749,5,421,0,1
+1086,LEGACY-DX-6240,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.802,3,356,0,1
+1087,LEGACY-RX-6935,LEGACY-RX,Omeprazole 20 local variant,RxNorm,,Omeprazole 20 MG oral capsule,0,0.566,4,395,1,1
+1088,LEGACY-LAB-7892,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.558,3,403,0,1
+1089,LEGACY-DX-7973,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.842,3,41,0,1
+1090,LEGACY-DX-2692,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.959,3,302,0,1
+1091,LEGACY-DX-7146,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.693,1,210,0,1
+1092,LEGACY-PROC-4568,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.924,4,345,0,1
+1093,LEGACY-LAB-2632,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.721,3,287,0,1
+1094,LEGACY-PROC-1746,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.703,5,418,0,1
+1095,LEGACY-RX-9361,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.703,5,229,0,1
+1096,LEGACY-LAB-4198,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.994,4,64,0,1
+1097,LEGACY-DX-9242,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.966,4,140,0,1
+1098,LEGACY-DX-1142,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.951,5,345,0,1
+1099,LEGACY-DX-8104,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.988,5,193,0,1
+1100,LEGACY-PROC-9120,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.962,4,310,0,1
+1101,LEGACY-DX-8505,LEGACY-DX,Sinusitis local variant,SNOMED CT,,Sinusitis,0,0.422,3,361,1,1
+1102,LEGACY-PROC-7518,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.697,5,223,0,1
+1103,LEGACY-LAB-2243,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.869,3,180,0,1
+1104,LEGACY-DX-3930,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Chronic obstructive lung disease,0,0.108,8,3,0,1
+1105,LEGACY-RX-8634,LEGACY-RX,Local code — no standard description on file,RxNorm,,Omeprazole 20 MG oral capsule,0,0.07,8,412,0,1
+1106,LEGACY-RX-7956,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.852,5,153,0,1
+1107,LEGACY-DX-8641,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.568,5,276,0,1
+1108,LEGACY-RX-6345,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.616,5,258,0,1
+1109,LEGACY-DX-1182,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.76,5,271,0,1
+1110,LEGACY-DX-9030,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.731,3,431,0,1
+1111,LEGACY-RX-7611,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.833,5,419,0,1
+1112,LEGACY-DX-9008,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.581,5,427,0,1
+1113,LEGACY-PROC-3056,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.579,3,107,0,1
+1114,LEGACY-DX-7103,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.589,3,447,0,1
+1115,LEGACY-PROC-6060,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.721,3,243,0,1
+1116,LEGACY-DX-7547,LEGACY-DX,Diabetes mellitus local variant,SNOMED CT,,Diabetes mellitus,0,0.488,4,379,1,1
+1117,LEGACY-DX-9261,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Depressive disorder,0,0.023,8,459,0,1
+1118,LEGACY-DX-6851,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.624,2,325,0,1
+1119,LEGACY-RX-6131,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.851,5,297,0,1
+1120,LEGACY-DX-3283,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.782,1,430,0,1
+1121,LEGACY-LAB-6678,LEGACY-LAB,Local code — no standard description on file,LOINC,,Glucose in blood fasting,0,0.023,8,386,0,1
+1122,LEGACY-RX-9373,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.644,2,74,0,1
+1123,LEGACY-DX-8641,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.688,6,485,0,1
+1124,LEGACY-DX-5435,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.975,6,274,0,1
+1125,LEGACY-DX-1252,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.741,1,74,0,1
+1126,LEGACY-DX-2763,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.6,4,106,0,1
+1127,LEGACY-DX-2494,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.969,5,376,0,1
+1128,LEGACY-LAB-3193,LEGACY-LAB,Local code — no standard description on file,LOINC,,Urea nitrogen in blood,0,0.109,8,400,0,1
+1129,LEGACY-DX-3474,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.766,3,273,0,1
+1130,LEGACY-PROC-6616,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.87,6,166,0,1
+1131,LEGACY-DX-1166,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.559,5,84,0,1
+1132,LEGACY-DX-9394,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.58,6,446,0,1
+1133,LEGACY-DX-5190,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.885,5,330,0,1
+1134,LEGACY-DX-4492,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.73,2,60,0,1
+1135,LEGACY-DX-8690,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.846,2,104,0,1
+1136,LEGACY-DX-4885,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.808,1,12,0,1
+1137,LEGACY-RX-4875,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.163,8,250,0,1
+1138,LEGACY-DX-8592,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.583,3,9,0,1
+1139,LEGACY-DX-2103,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.564,5,358,0,1
+1140,LEGACY-RX-3248,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.603,5,50,0,1
+1141,LEGACY-DX-5034,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.871,5,33,0,1
+1142,LEGACY-LAB-7742,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.796,4,353,0,1
+1143,LEGACY-LAB-9127,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.89,3,391,0,1
+1144,LEGACY-DX-8026,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.969,6,73,0,1
+1145,LEGACY-LAB-6740,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.654,4,172,0,1
+1146,LEGACY-PROC-1510,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.871,3,237,0,1
+1147,LEGACY-DX-1169,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.922,3,98,0,1
+1148,LEGACY-PROC-4415,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.823,6,393,0,1
+1149,LEGACY-DX-7018,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.605,1,481,0,1
+1150,LEGACY-DX-4224,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.893,3,434,0,1
+1151,LEGACY-DX-7357,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.823,1,89,0,1
+1152,LEGACY-LAB-7636,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.605,3,229,0,1
+1153,LEGACY-DX-2872,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.985,3,137,0,1
+1154,LEGACY-DX-4576,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.923,3,216,0,1
+1155,LEGACY-DX-5490,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.975,2,113,0,1
+1156,LEGACY-PROC-7334,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient,0,0.105,8,447,0,1
+1157,LEGACY-LAB-1363,LEGACY-LAB,Local code — no standard description on file,LOINC,,Creatinine in blood,0,0.145,8,399,0,1
+1158,LEGACY-DX-6054,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.901,3,462,0,1
+1159,LEGACY-PROC-3736,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.72,3,324,0,1
+1160,LEGACY-LAB-2755,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.998,4,474,0,1
+1161,LEGACY-LAB-4535,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.926,4,28,0,1
+1162,LEGACY-PROC-9680,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.981,5,6,0,1
+1163,LEGACY-RX-1424,LEGACY-RX,Local code — no standard description on file,RxNorm,,Levothyroxine 50 MCG oral tablet,0,0.002,8,306,0,1
+1164,LEGACY-DX-3064,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.79,1,425,0,1
+1165,LEGACY-LAB-8879,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.691,3,497,0,1
+1166,LEGACY-LAB-5884,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.903,3,221,0,1
+1167,LEGACY-LAB-1610,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.998,4,490,0,1
+1168,LEGACY-DX-5827,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.648,5,251,0,1
+1169,LEGACY-DX-8686,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.553,3,391,0,1
+1170,LEGACY-DX-5703,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.608,3,194,0,1
+1171,LEGACY-PROC-3626,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.652,4,341,0,1
+1172,LEGACY-LAB-8377,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.682,4,492,0,1
+1173,LEGACY-DX-3519,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.609,2,228,0,1
+1174,LEGACY-DX-1154,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.733,1,476,0,1
+1175,LEGACY-PROC-3730,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient,0,0.179,8,2,0,1
+1176,LEGACY-PROC-2014,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.767,4,184,0,1
+1177,LEGACY-DX-7419,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.761,4,36,0,1
+1178,LEGACY-DX-9161,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.709,3,201,0,1
+1179,LEGACY-DX-9878,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.599,3,194,0,1
+1180,LEGACY-RX-7704,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.698,5,222,0,1
+1181,LEGACY-LAB-2764,LEGACY-LAB,Local code — no standard description on file,LOINC,,Potassium in blood,0,0.023,8,283,0,1
+1182,LEGACY-DX-6660,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.841,3,294,0,1
+1183,LEGACY-RX-2283,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.899,5,125,0,1
+1184,LEGACY-PROC-5584,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.917,3,213,0,1
+1185,LEGACY-DX-8386,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.995,3,469,0,1
+1186,LEGACY-PROC-3656,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.826,4,418,0,1
+1187,LEGACY-LAB-1363,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.626,3,132,0,1
+1188,LEGACY-DX-2378,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.606,3,117,0,1
+1189,LEGACY-LAB-6867,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.65,3,40,0,1
+1190,LEGACY-PROC-9302,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.691,4,251,0,1
+1191,LEGACY-PROC-5056,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.804,6,4,0,1
+1192,LEGACY-LAB-5880,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.649,3,315,0,1
+1193,LEGACY-LAB-1930,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.603,3,64,0,1
+1194,LEGACY-LAB-7535,LEGACY-LAB,Creatinine in local variant,LOINC,,Creatinine in blood,0,0.6,4,61,1,1
+1195,LEGACY-LAB-7688,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.946,4,49,0,1
+1196,LEGACY-DX-1683,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.952,2,32,0,1
+1197,LEGACY-RX-2925,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.631,5,113,0,1
+1198,LEGACY-RX-1340,LEGACY-RX,Amlodipine 5 local variant,RxNorm,,Amlodipine 5 MG oral tablet,0,0.384,4,362,0,1
+1199,LEGACY-PROC-4828,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.751,6,412,0,1
+1200,LEGACY-RX-7087,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.88,5,449,0,1
+1201,LEGACY-DX-8002,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.928,1,493,0,1
+1202,LEGACY-DX-3549,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.838,3,323,0,1
+1203,LEGACY-PROC-3829,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.933,3,470,0,1
+1204,LEGACY-RX-8138,LEGACY-RX,Local code — no standard description on file,RxNorm,,Gabapentin 300 MG oral capsule,0,0.194,8,117,0,1
+1205,LEGACY-DX-5228,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.986,2,365,0,1
+1206,LEGACY-RX-4671,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.716,5,325,0,1
+1207,LEGACY-PROC-3697,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.825,3,347,0,1
+1208,LEGACY-DX-4794,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.587,3,464,0,1
+1209,LEGACY-LAB-2203,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.713,4,230,0,1
+1210,LEGACY-PROC-7287,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.575,4,379,0,1
+1211,LEGACY-PROC-4577,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.823,6,264,0,1
+1212,LEGACY-RX-3021,LEGACY-RX,Levothyroxine 50 local variant,RxNorm,,Levothyroxine 50 MCG oral tablet,0,0.531,4,238,0,1
+1213,LEGACY-DX-3214,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Hypothyroidism,0,0.108,8,94,0,1
+1214,LEGACY-PROC-2593,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.698,6,119,0,1
+1215,LEGACY-LAB-9423,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.675,3,40,0,1
+1216,LEGACY-LAB-9550,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.802,3,314,0,1
+1217,LEGACY-PROC-6720,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.565,2,39,0,1
+1218,LEGACY-PROC-5320,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.91,3,264,0,1
+1219,LEGACY-DX-3230,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.994,2,275,0,1
+1220,LEGACY-RX-4607,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.926,5,65,0,1
+1221,LEGACY-DX-8822,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.7,5,286,0,1
+1222,LEGACY-RX-8293,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.724,2,141,0,1
+1223,LEGACY-DX-2257,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.575,4,29,0,1
+1224,LEGACY-DX-1325,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.941,5,448,0,1
+1225,LEGACY-RX-2942,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.756,5,285,0,1
+1226,LEGACY-PROC-8748,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.585,2,78,0,1
+1227,LEGACY-PROC-2840,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.709,6,134,0,1
+1228,LEGACY-DX-6734,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Depressive disorder,0,0.188,8,238,0,1
+1229,LEGACY-LAB-9624,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.632,4,318,0,1
+1230,LEGACY-DX-9231,LEGACY-DX,Asthma,SNOMED CT,195967001,Asthma,1,0.818,1,405,0,1
+1231,LEGACY-PROC-7966,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.574,6,89,0,1
+1232,LEGACY-LAB-5295,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.652,3,99,0,1
+1233,LEGACY-LAB-1326,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.368,4,68,0,1
+1234,LEGACY-RX-3192,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.923,5,217,0,1
+1235,LEGACY-DX-2724,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.926,1,474,0,1
+1236,LEGACY-DX-5038,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.557,3,156,0,1
+1237,LEGACY-DX-2110,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.877,3,159,0,1
+1238,LEGACY-DX-8145,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.561,2,41,0,1
+1239,LEGACY-LAB-7778,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.941,3,356,0,1
+1240,LEGACY-PROC-5862,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.926,6,171,0,1
+1241,LEGACY-LAB-6473,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.927,3,62,0,1
+1242,LEGACY-LAB-5192,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.767,3,40,0,1
+1243,LEGACY-PROC-8704,LEGACY-PROC,Local code — no standard description on file,CPT,,Collection of venous blood,0,0.175,8,366,0,1
+1244,LEGACY-PROC-9048,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.767,6,257,0,1
+1245,LEGACY-RX-9331,LEGACY-RX,Local code — no standard description on file,RxNorm,,Amlodipine 5 MG oral tablet,0,0.078,8,403,0,1
+1246,LEGACY-LAB-1175,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.941,4,386,0,1
+1247,LEGACY-DX-3770,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.593,3,313,0,1
+1248,LEGACY-DX-6033,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.851,4,129,0,1
+1249,LEGACY-DX-2298,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.944,5,135,0,1
+1250,LEGACY-DX-7353,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.865,2,257,0,1
+1251,LEGACY-DX-8702,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.726,3,39,0,1
+1252,LEGACY-DX-2765,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.906,2,446,0,1
+1253,LEGACY-DX-7437,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.686,2,355,0,1
+1254,LEGACY-DX-1857,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.897,2,77,0,1
+1255,LEGACY-DX-8966,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.596,3,350,0,1
+1256,LEGACY-RX-2327,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.7,5,498,0,1
+1257,LEGACY-DX-3143,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.571,1,136,0,1
+1258,LEGACY-DX-4741,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.638,3,356,0,1
+1259,LEGACY-DX-4461,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.994,3,93,0,1
+1260,LEGACY-LAB-2257,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.979,4,84,0,1
+1261,LEGACY-LAB-4588,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.979,3,50,0,1
+1262,LEGACY-DX-1108,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.801,5,282,0,1
+1263,LEGACY-DX-7620,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.672,6,229,0,1
+1264,LEGACY-DX-3813,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.744,3,465,0,1
+1265,LEGACY-RX-4678,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.964,5,170,0,1
+1266,LEGACY-DX-2102,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.817,2,476,0,1
+1267,LEGACY-DX-2898,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.989,3,180,0,1
+1268,LEGACY-PROC-4784,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.614,4,58,0,1
+1269,LEGACY-PROC-1926,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.697,4,74,0,1
+1270,LEGACY-PROC-2874,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.789,6,367,0,1
+1271,LEGACY-DX-2439,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.85,5,231,0,1
+1272,LEGACY-DX-1946,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.86,3,304,0,1
+1273,LEGACY-DX-1010,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.883,3,19,0,1
+1274,LEGACY-DX-1283,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.906,2,195,0,1
+1275,LEGACY-DX-3359,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.95,3,25,0,1
+1276,LEGACY-LAB-7791,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.956,3,168,0,1
+1277,LEGACY-PROC-8976,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.959,5,215,0,1
+1278,LEGACY-PROC-9392,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.867,3,382,0,1
+1279,LEGACY-PROC-6471,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.912,5,428,0,1
+1280,LEGACY-RX-1772,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.873,2,255,0,1
+1281,LEGACY-PROC-5108,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.638,6,425,0,1
+1282,LEGACY-DX-7970,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.699,3,297,0,1
+1283,LEGACY-DX-3428,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.578,6,476,0,1
+1284,LEGACY-DX-2824,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.696,1,8,0,1
+1285,LEGACY-LAB-7570,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.674,4,428,0,1
+1286,LEGACY-LAB-1600,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.995,4,297,0,1
+1287,LEGACY-LAB-6410,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.936,3,236,0,1
+1288,LEGACY-PROC-1633,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.55,2,292,0,1
+1289,LEGACY-LAB-1283,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.784,3,223,0,1
+1290,LEGACY-LAB-1996,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.599,4,278,0,1
+1291,LEGACY-PROC-3645,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.82,4,25,0,1
+1292,LEGACY-DX-4939,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.845,3,201,0,1
+1293,LEGACY-DX-2334,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.882,3,428,0,1
+1294,LEGACY-RX-1070,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.568,5,185,0,1
+1295,LEGACY-LAB-6916,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.625,3,286,0,1
+1296,LEGACY-LAB-3261,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.889,4,282,0,1
+1297,LEGACY-DX-7194,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.97,2,131,0,1
+1298,LEGACY-DX-9971,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.874,3,477,0,1
+1299,LEGACY-PROC-4279,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.899,4,179,0,1
+1300,LEGACY-PROC-1463,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.714,3,176,0,1
+1301,LEGACY-LAB-2552,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.787,3,199,0,1
+1302,LEGACY-RX-2764,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.854,5,97,0,1
+1303,LEGACY-RX-9934,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.603,5,404,0,1
+1304,LEGACY-DX-6986,LEGACY-DX,Obstructive sleep apnea,ICD-10,G47.33,Obstructive sleep apnea,1,0.649,3,483,0,1
+1305,LEGACY-RX-8315,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.752,5,394,0,1
+1306,LEGACY-DX-8519,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.856,3,66,0,1
+1307,LEGACY-DX-3850,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.851,2,433,0,1
+1308,LEGACY-PROC-5804,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.686,4,262,0,1
+1309,LEGACY-PROC-8730,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.959,3,260,0,1
+1310,LEGACY-PROC-5486,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.709,5,386,0,1
+1311,LEGACY-PROC-1248,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.868,3,305,0,1
+1312,LEGACY-LAB-7818,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.798,3,451,0,1
+1313,LEGACY-DX-6787,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.913,2,271,0,1
+1314,LEGACY-DX-7713,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.724,3,253,0,1
+1315,LEGACY-DX-8442,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.958,2,179,0,1
+1316,LEGACY-PROC-6698,LEGACY-PROC,Collection of venous blood,CPT,36415,Collection of venous blood,1,0.674,4,229,0,1
+1317,LEGACY-LAB-4111,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.685,3,188,0,1
+1318,LEGACY-RX-2117,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.685,5,489,0,1
+1319,LEGACY-LAB-2872,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.986,3,215,0,1
+1320,LEGACY-LAB-6163,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.556,4,93,0,1
+1321,LEGACY-DX-7129,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.593,3,351,0,1
+1322,LEGACY-PROC-4978,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.663,3,362,0,1
+1323,LEGACY-DX-8111,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.983,3,15,0,1
+1324,LEGACY-DX-2196,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.729,5,362,0,1
+1325,LEGACY-PROC-8475,LEGACY-PROC,Electrocardiogram routine local variant,CPT,,Electrocardiogram routine,0,0.381,4,114,0,1
+1326,LEGACY-DX-8780,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.877,3,379,0,1
+1327,LEGACY-DX-1361,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.804,3,23,0,1
+1328,LEGACY-DX-8273,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.752,3,17,0,1
+1329,LEGACY-RX-1676,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.952,5,253,0,1
+1330,LEGACY-DX-2049,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.998,3,3,0,1
+1331,LEGACY-RX-3853,LEGACY-RX,Amoxicillin 500 MG oral capsule,RxNorm,1049502,Amoxicillin 500 MG oral capsule,1,0.623,5,23,0,1
+1332,LEGACY-PROC-2454,LEGACY-PROC,Local code — no standard description on file,CPT,,Collection of venous blood,0,0.081,8,82,0,1
+1333,LEGACY-DX-6829,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Fever,0,0.009,8,277,0,1
+1334,LEGACY-DX-5467,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.809,3,272,0,1
+1335,LEGACY-DX-2955,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.974,6,387,0,1
+1336,LEGACY-DX-1010,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.594,2,341,0,1
+1337,LEGACY-DX-2494,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.646,2,166,0,1
+1338,LEGACY-RX-3913,LEGACY-RX,Gabapentin 300 MG oral capsule,RxNorm,1748913,Gabapentin 300 MG oral capsule,1,0.929,5,33,0,1
+1339,LEGACY-DX-2361,LEGACY-DX,Depressive disorder,SNOMED CT,35489007,Depressive disorder,1,0.863,2,288,0,1
+1340,LEGACY-PROC-4532,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.768,4,12,0,1
+1341,LEGACY-DX-1332,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.68,4,419,0,1
+1342,LEGACY-RX-6006,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.573,5,129,0,1
+1343,LEGACY-DX-9734,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.801,6,114,0,1
+1344,LEGACY-PROC-7110,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.634,4,324,0,1
+1345,LEGACY-RX-4147,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.611,5,99,0,1
+1346,LEGACY-PROC-8655,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.756,6,189,0,1
+1347,LEGACY-DX-3423,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.933,3,281,0,1
+1348,LEGACY-PROC-5803,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.798,4,10,0,1
+1349,LEGACY-DX-8119,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.925,3,301,0,1
+1350,LEGACY-PROC-1126,LEGACY-PROC,Local code — no standard description on file,CPT,,MRI brain without contrast,0,0.132,8,328,0,1
+1351,LEGACY-LAB-4178,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.838,4,463,0,1
+1352,LEGACY-RX-8250,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.735,5,308,0,1
+1353,LEGACY-DX-5381,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.959,3,194,0,1
+1354,LEGACY-DX-4754,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.839,5,268,0,1
+1355,LEGACY-LAB-6545,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.802,3,423,0,1
+1356,LEGACY-DX-5364,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.614,5,90,0,1
+1357,LEGACY-PROC-4000,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.578,4,126,0,1
+1358,LEGACY-PROC-7846,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.979,3,325,0,1
+1359,LEGACY-DX-5373,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.794,3,346,0,1
+1360,LEGACY-DX-1923,LEGACY-DX,Gastroesophageal reflux local variant,ICD-10,,Gastroesophageal reflux disease,0,0.355,4,370,0,1
+1361,LEGACY-PROC-1876,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.894,6,117,0,1
+1362,LEGACY-RX-6045,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.895,5,304,0,1
+1363,LEGACY-RX-2241,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.704,5,399,0,1
+1364,LEGACY-DX-1483,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.825,2,206,0,1
+1365,LEGACY-PROC-2339,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.707,4,401,0,1
+1366,LEGACY-PROC-5200,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.825,2,8,0,1
+1367,LEGACY-RX-7950,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.665,5,343,0,1
+1368,LEGACY-DX-2987,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.763,3,180,0,1
+1369,LEGACY-DX-5166,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.642,3,281,0,1
+1370,LEGACY-DX-6318,LEGACY-DX,Hypothyroidism,SNOMED CT,40930008,Hypothyroidism,1,0.673,1,25,0,1
+1371,LEGACY-PROC-8593,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.792,3,89,0,1
+1372,LEGACY-LAB-4486,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.858,4,231,0,1
+1373,LEGACY-DX-3816,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.611,5,209,0,1
+1374,LEGACY-DX-7072,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.748,3,75,0,1
+1375,LEGACY-PROC-6319,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.766,6,327,0,1
+1376,LEGACY-DX-5307,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.992,2,135,0,1
+1377,LEGACY-PROC-8536,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.637,4,122,0,1
+1378,LEGACY-DX-7295,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.88,3,89,0,1
+1379,LEGACY-PROC-6962,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.968,3,117,0,1
+1380,LEGACY-DX-2393,LEGACY-DX,Local code — no standard description on file,ICD-10,,Gastroesophageal reflux disease,0,0.057,8,259,0,1
+1381,LEGACY-LAB-2384,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.701,4,361,0,1
+1382,LEGACY-PROC-4037,LEGACY-PROC,Local code — no standard description on file,CPT,,Office outpatient visit established patient,0,0.085,8,198,0,1
+1383,LEGACY-PROC-9501,LEGACY-PROC,Comprehensive metabolic panel,CPT,80053,Comprehensive metabolic panel,1,0.647,3,492,0,1
+1384,LEGACY-DX-3923,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.593,3,449,0,1
+1385,LEGACY-LAB-5403,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.813,3,211,0,1
+1386,LEGACY-LAB-1023,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.653,4,254,0,1
+1387,LEGACY-DX-5205,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.848,3,304,0,1
+1388,LEGACY-DX-3050,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.562,4,163,0,1
+1389,LEGACY-DX-8341,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.75,3,75,0,1
+1390,LEGACY-RX-5557,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.956,5,255,0,1
+1391,LEGACY-PROC-1671,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.611,3,197,0,1
+1392,LEGACY-PROC-3061,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.915,6,307,0,1
+1393,LEGACY-PROC-2573,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.642,5,434,0,1
+1394,LEGACY-PROC-1897,LEGACY-PROC,Office outpatient visit established patient detailed,CPT,99214,Office outpatient visit established patient detailed,1,0.679,6,2,0,1
+1395,LEGACY-RX-9187,LEGACY-RX,Omeprazole 20 MG oral capsule,RxNorm,617311,Omeprazole 20 MG oral capsule,1,0.809,5,264,0,1
+1396,LEGACY-PROC-4096,LEGACY-PROC,Emergency department local variant,CPT,,Emergency department visit high severity,0,0.647,4,224,1,1
+1397,LEGACY-LAB-4103,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.705,4,432,0,1
+1398,LEGACY-LAB-6310,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.67,3,251,0,1
+1399,LEGACY-DX-6819,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.938,5,267,0,1
+1400,LEGACY-LAB-7880,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.678,3,400,0,1
+1401,LEGACY-PROC-6656,LEGACY-PROC,Therapeutic procedure local variant,CPT,,Therapeutic procedure one or more areas,0,0.368,4,414,0,1
+1402,LEGACY-DX-3652,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.852,2,444,0,1
+1403,LEGACY-RX-9495,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.709,5,391,0,1
+1404,LEGACY-LAB-8421,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.558,4,67,0,1
+1405,LEGACY-DX-6885,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.593,2,478,0,1
+1406,LEGACY-LAB-7566,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.604,3,26,0,1
+1407,LEGACY-PROC-9442,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.739,5,208,0,1
+1408,LEGACY-RX-1241,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.675,5,235,0,1
+1409,LEGACY-DX-6492,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.83,4,111,0,1
+1410,LEGACY-DX-4769,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.911,2,216,0,1
+1411,LEGACY-LAB-1761,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.7,3,64,0,1
+1412,LEGACY-DX-2398,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.962,3,455,0,1
+1413,LEGACY-LAB-4365,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.83,3,238,0,1
+1414,LEGACY-PROC-1377,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.572,2,348,0,1
+1415,LEGACY-RX-4215,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.846,5,133,0,1
+1416,LEGACY-LAB-2393,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.984,4,300,0,1
+1417,LEGACY-PROC-3401,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.986,5,41,0,1
+1418,LEGACY-DX-9354,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Chronic obstructive lung disease,0,0.112,8,172,0,1
+1419,LEGACY-LAB-7807,LEGACY-LAB,Cholesterol total in blood,LOINC,2093-3,Cholesterol total in blood,1,0.56,4,249,0,1
+1420,LEGACY-LAB-4822,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.39,4,212,0,1
+1421,LEGACY-LAB-6778,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.982,4,248,0,1
+1422,LEGACY-LAB-1381,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.694,4,123,0,1
+1423,LEGACY-DX-5023,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.835,5,269,0,1
+1424,LEGACY-DX-4486,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.598,1,259,0,1
+1425,LEGACY-DX-1953,LEGACY-DX,Hypothyroidism local variant,SNOMED CT,,Hypothyroidism,0,0.416,3,235,1,1
+1426,LEGACY-DX-1527,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.932,3,492,0,1
+1427,LEGACY-LAB-8616,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.788,3,390,0,1
+1428,LEGACY-DX-8083,LEGACY-DX,Fever,SNOMED CT,386661006,Fever,1,0.649,1,354,0,1
+1429,LEGACY-RX-5004,LEGACY-RX,Metformin 500 local variant,RxNorm,,Metformin 500 MG oral tablet,0,0.35,4,231,0,1
+1430,LEGACY-PROC-3877,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.75,2,278,0,1
+1431,LEGACY-DX-4219,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.645,3,210,0,1
+1432,LEGACY-RX-8748,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.808,5,234,0,1
+1433,LEGACY-LAB-4377,LEGACY-LAB,Creatinine in blood,LOINC,58410-2,Creatinine in blood,1,0.726,3,349,0,1
+1434,LEGACY-DX-4342,LEGACY-DX,Local code — no standard description on file,ICD-10,,Atherosclerotic heart disease,0,0.039,8,282,0,1
+1435,LEGACY-RX-6339,LEGACY-RX,Amlodipine 5 MG oral tablet,RxNorm,1051628,Amlodipine 5 MG oral tablet,1,0.847,5,216,0,1
+1436,LEGACY-PROC-6597,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.677,5,125,0,1
+1437,LEGACY-RX-5290,LEGACY-RX,Metformin 500 MG oral tablet,RxNorm,198440,Metformin 500 MG oral tablet,1,0.712,5,115,0,1
+1438,LEGACY-DX-1692,LEGACY-DX,Diabetes mellitus type 2,SNOMED CT,44054006,Diabetes mellitus type 2,1,0.552,4,449,0,1
+1439,LEGACY-DX-6882,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.746,3,403,0,1
+1440,LEGACY-PROC-2889,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.719,6,16,0,1
+1441,LEGACY-PROC-5426,LEGACY-PROC,Chest x-ray two views,CPT,71046,Chest x-ray two views,1,0.881,4,306,0,1
+1442,LEGACY-PROC-3456,LEGACY-PROC,Psychotherapy 60 minutes,CPT,90837,Psychotherapy 60 minutes,1,0.689,3,75,0,1
+1443,LEGACY-PROC-7992,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.652,6,213,0,1
+1444,LEGACY-DX-8500,LEGACY-DX,Sinusitis,SNOMED CT,36971009,Sinusitis,1,0.852,1,499,0,1
+1445,LEGACY-PROC-5349,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.851,4,360,0,1
+1446,LEGACY-LAB-2516,LEGACY-LAB,Glucose in local variant,LOINC,,Glucose in blood,0,0.359,4,53,0,1
+1447,LEGACY-PROC-2528,LEGACY-PROC,Emergency department visit high severity,CPT,99285,Emergency department visit high severity,1,0.819,5,97,0,1
+1448,LEGACY-DX-4176,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.632,2,476,0,1
+1449,LEGACY-LAB-7787,LEGACY-LAB,Glucose in blood fasting,LOINC,2345-7,Glucose in blood fasting,1,0.789,4,195,0,1
+1450,LEGACY-DX-5645,LEGACY-DX,Heart failure,SNOMED CT,84114007,Heart failure,1,0.728,2,427,0,1
+1451,LEGACY-DX-3231,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.712,3,351,0,1
+1452,LEGACY-DX-7409,LEGACY-DX,Local code — no standard description on file,ICD-10,,Essential hypertension,0,0.104,8,359,0,1
+1453,LEGACY-LAB-2774,LEGACY-LAB,Blood pressure panel,LOINC,33747-0,Blood pressure panel,1,0.903,3,382,0,1
+1454,LEGACY-PROC-9583,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.583,2,107,0,1
+1455,LEGACY-LAB-3971,LEGACY-LAB,Glucose in blood,LOINC,2339-0,Glucose in blood,1,0.686,3,258,0,1
+1456,LEGACY-DX-5470,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.624,5,337,0,1
+1457,LEGACY-RX-8408,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.961,2,193,0,1
+1458,LEGACY-LAB-5513,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.713,3,384,0,1
+1459,LEGACY-RX-2230,LEGACY-RX,Atorvastatin 20 MG oral tablet,RxNorm,207106,Atorvastatin 20 MG oral tablet,1,0.722,5,15,0,1
+1460,LEGACY-DX-4053,LEGACY-DX,Hypertensive disorder,SNOMED CT,38341003,Hypertensive disorder,1,0.666,2,52,0,1
+1461,LEGACY-DX-4060,LEGACY-DX,Chronic kidney disease stage 3,ICD-10,N18.3,Chronic kidney disease stage 3,1,0.823,5,36,0,1
+1462,LEGACY-LAB-2896,LEGACY-LAB,Potassium in blood,LOINC,2823-3,Potassium in blood,1,0.859,3,486,0,1
+1463,LEGACY-DX-2544,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.833,3,64,0,1
+1464,LEGACY-LAB-2945,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.558,4,175,0,1
+1465,LEGACY-LAB-7689,LEGACY-LAB,Hemoglobin A1c in blood,LOINC,4548-4,Hemoglobin A1c in blood,1,0.653,4,94,0,1
+1466,LEGACY-RX-1253,LEGACY-RX,Amlodipine 5 local variant,RxNorm,,Amlodipine 5 MG oral tablet,0,0.592,4,208,1,1
+1467,LEGACY-DX-9034,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.886,3,106,0,1
+1468,LEGACY-LAB-2447,LEGACY-LAB,Glomerular filtration rate,LOINC,33914-3,Glomerular filtration rate,1,0.724,3,248,0,1
+1469,LEGACY-DX-9552,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.62,2,187,0,1
+1470,LEGACY-DX-1576,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.787,2,57,0,1
+1471,LEGACY-DX-5970,LEGACY-DX,Asthma local variant,SNOMED CT,,Asthma,0,0.584,3,221,1,1
+1472,LEGACY-DX-6351,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.754,6,308,0,1
+1473,LEGACY-RX-4118,LEGACY-RX,Albuterol inhaler,RxNorm,856845,Albuterol inhaler,1,0.643,2,233,0,1
+1474,LEGACY-DX-1607,LEGACY-DX,Essential hypertension,ICD-10,I10,Essential hypertension,1,0.936,2,206,0,1
+1475,LEGACY-RX-5974,LEGACY-RX,Local code — no standard description on file,RxNorm,,Amlodipine 5 MG oral tablet,0,0.003,8,214,0,1
+1476,LEGACY-RX-7457,LEGACY-RX,Levothyroxine 50 MCG oral tablet,RxNorm,1110621,Levothyroxine 50 MCG oral tablet,1,0.935,5,317,0,1
+1477,LEGACY-LAB-3587,LEGACY-LAB,Urea nitrogen in blood,LOINC,3094-0,Urea nitrogen in blood,1,0.585,4,107,0,1
+1478,LEGACY-RX-4505,LEGACY-RX,Lisinopril 10 MG oral tablet,RxNorm,197517,Lisinopril 10 MG oral tablet,1,0.885,5,457,0,1
+1479,LEGACY-PROC-6729,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.988,5,347,0,1
+1480,LEGACY-DX-5974,LEGACY-DX,Atherosclerotic heart disease,ICD-10,I25.10,Atherosclerotic heart disease,1,0.745,3,238,0,1
+1481,LEGACY-PROC-6252,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.951,5,382,0,1
+1482,LEGACY-PROC-7443,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.788,2,116,0,1
+1483,LEGACY-DX-3295,LEGACY-DX,Local code — no standard description on file,SNOMED CT,,Heart failure,0,0.14,8,360,0,1
+1484,LEGACY-DX-6718,LEGACY-DX,Major depressive disorder single episode moderate,ICD-10,F32.1,Major depressive disorder single episode moderate,1,0.736,6,242,0,1
+1485,LEGACY-PROC-2512,LEGACY-PROC,Electrocardiogram routine,CPT,93000,Electrocardiogram routine,1,0.75,2,91,0,1
+1486,LEGACY-DX-8733,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.644,5,81,0,1
+1487,LEGACY-PROC-8644,LEGACY-PROC,MRI brain without contrast,CPT,70553,MRI brain without contrast,1,0.642,4,99,0,1
+1488,LEGACY-DX-9984,LEGACY-DX,Gastroesophageal reflux disease,ICD-10,K21.9,Gastroesophageal reflux disease,1,0.979,3,278,0,1
+1489,LEGACY-DX-4155,LEGACY-DX,Generalized anxiety disorder,ICD-10,F41.1,Generalized anxiety disorder,1,0.731,3,270,0,1
+1490,LEGACY-PROC-8468,LEGACY-PROC,Office outpatient visit established patient,CPT,99213,Office outpatient visit established patient,1,0.912,5,153,0,1
+1491,LEGACY-DX-5531,LEGACY-DX,Unspecified asthma uncomplicated,ICD-10,J45.909,Unspecified asthma uncomplicated,1,0.608,3,105,0,1
+1492,LEGACY-PROC-3229,LEGACY-PROC,Therapeutic procedure one or more areas,CPT,97110,Therapeutic procedure one or more areas,1,0.773,6,195,0,1
+1493,LEGACY-LAB-2872,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.781,3,106,0,1
+1494,LEGACY-DX-7744,LEGACY-DX,Type 2 diabetes without complications,ICD-10,E11.9,Type 2 diabetes without complications,1,0.667,5,378,0,1
+1495,LEGACY-RX-8520,LEGACY-RX,Sertraline 50 MG oral tablet,RxNorm,860975,Sertraline 50 MG oral tablet,1,0.752,5,483,0,1
+1496,LEGACY-LAB-7641,LEGACY-LAB,Calcium in blood,LOINC,49765-1,Calcium in blood,1,0.923,3,338,0,1
+1497,LEGACY-DX-1185,LEGACY-DX,Chronic obstructive lung disease,SNOMED CT,13645005,Chronic obstructive lung disease,1,0.872,4,10,0,1
+1498,LEGACY-DX-4539,LEGACY-DX,Low back pain,ICD-10,M54.5,Low back pain,1,0.747,3,200,0,1
+1499,LEGACY-DX-4671,LEGACY-DX,Diabetes mellitus,SNOMED CT,73211009,Diabetes mellitus,1,0.563,2,483,0,1
+1500,LEGACY-DX-2699,LEGACY-DX,Sinusitis local variant,SNOMED CT,,Sinusitis,0,0.51,3,282,0,1
