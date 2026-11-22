@@ -1,0 +1,4 @@
+module,baseline,baseline_score,best_model,best_score,metric
+Migration break-cause,Majority-class,0.3243801652892562,Random Forest,0.41115702479338845,Accuracy
+Interface nonconformance,Accept-all,0.0,Logistic Regression,0.4663677130044843,F1
+Terminology mappability,Majority-class,0.0,Random Forest,0.65,F1

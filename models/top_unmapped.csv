@@ -1,0 +1,11 @@
+source_code,target_system,source_description,frequency,token_overlap,true_mappable
+LEGACY-DX-1802,SNOMED CT,Local code — no standard description on file,496,0.087,0
+LEGACY-DX-4690,ICD-10,Local code — no standard description on file,492,0.154,0
+LEGACY-RX-5071,RxNorm,Local code — no standard description on file,490,0.17,0
+LEGACY-RX-5438,RxNorm,Atorvastatin 20 local variant,484,0.392,0
+LEGACY-RX-8550,RxNorm,Local code — no standard description on file,475,0.081,0
+LEGACY-DX-3042,SNOMED CT,Diabetes mellitus local variant,475,0.616,0
+LEGACY-RX-3109,RxNorm,Local code — no standard description on file,475,0.092,0
+LEGACY-PROC-5512,CPT,Comprehensive metabolic local variant,472,0.417,1
+LEGACY-RX-6745,RxNorm,Atorvastatin 20 local variant,461,0.523,1
+LEGACY-DX-7656,ICD-10,Chronic kidney local variant,461,0.617,1

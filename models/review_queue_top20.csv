@@ -1,0 +1,21 @@
+migration_date,record_id,domain,source_system,break_type,field_match_rate,risk_score
+2025-12-13 13:53:39,CLI-16788,clinical,LEGACY-PAT,missing_record,0.709,100.0
+2025-12-10 07:22:13,CLI-15835,clinical,LEGACY-EHR,missing_record,0.718,100.0
+2025-11-29 20:52:28,PAT-3725,demographics,LEGACY-PAT,missing_record,0.894,100.0
+2025-11-17 12:14:14,PAT-5588,demographics,LEGACY-PAT,missing_record,0.714,100.0
+2025-11-14 02:53:30,CLI-14707,clinical,LEGACY-EHR,missing_record,0.796,100.0
+2025-12-11 03:35:26,CLI-13752,clinical,LEGACY-PAT,missing_record,0.811,100.0
+2025-12-12 22:31:10,ENC-3440,encounter,LEGACY-PAT,missing_record,0.855,100.0
+2025-12-05 00:00:16,ENC-1149,encounter,LEGACY-PAT,missing_record,0.871,100.0
+2025-12-07 22:15:17,ENC-3080,encounter,LEGACY-PAT,missing_record,0.561,100.0
+2025-11-15 12:24:54,ENC-3404,encounter,LEGACY-ANC,missing_record,0.585,100.0
+2025-12-11 13:57:26,CLI-12952,clinical,LEGACY-EHR,missing_record,0.747,100.0
+2025-12-02 04:35:40,ENC-4082,encounter,LEGACY-EHR,missing_record,0.582,100.0
+2025-12-29 18:38:26,ENC-4029,encounter,LEGACY-PAT,missing_record,0.751,100.0
+2025-12-22 09:42:34,CLI-15192,clinical,LEGACY-EHR,missing_record,0.69,100.0
+2025-12-24 16:00:01,CLI-1145,clinical,LEGACY-PAT,missing_record,0.83,100.0
+2025-11-17 09:39:23,CLI-8312,clinical,LEGACY-ANC,missing_record,0.665,100.0
+2025-12-26 11:42:54,CLI-10520,clinical,LEGACY-ANC,missing_record,0.89,100.0
+2025-12-28 09:53:57,CLI-9898,clinical,LEGACY-EHR,missing_record,0.729,100.0
+2025-12-05 07:09:23,CLI-9995,clinical,LEGACY-EHR,missing_record,0.6,100.0
+2025-12-02 01:49:07,ENC-10156,encounter,LEGACY-EHR,missing_record,0.58,100.0
